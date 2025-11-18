@@ -1,0 +1,674 @@
+{
+  "base_theme_belonging": {
+    "positive_summary": "Employees appreciate cultural awareness initiatives like the Two-Way Mentoring program and the Care, Courage, and Curiosity award. They value a supportive workplace culture with recognition of achievements and strong community connections.",
+    "negative_summary": "Negative culture with 'Us vs. Them' mentality. Toxic work environment leading to employee turnover. Favoritism and lack of diversity in promotions.",
+    "positive_recommendations": [
+      "Enhance mentoring programs",
+      "Foster inclusive workplace culture"
+    ],
+    "negative_recommendations": [
+      "Improve company culture",
+      "Enhance diversity and inclusion"
+    ]
+  },
+  "base_theme_hiring_careers": {
+    "positive_summary": "Opportunities for career growth within a global organization. Positive feedback on the comprehensive graduate and training programs. Attractive remuneration and benefits packages for FIFO roles.",
+    "negative_summary": "Hiring processes extend up to six months with slow communication. Graduate roles demand experience, contradicting entry-level expectations.",
+    "positive_recommendations": [
+      "Enhance training programs",
+      "Maintain competitive compensation"
+    ],
+    "negative_recommendations": [
+      "Expedite hiring process",
+      "Adjust graduate role criteria"
+    ]
+  },
+  "base_theme_inclusion_safety": {
+    "positive_summary": "Rio Tinto employees value the company's commitment to psychological safety and inclusivity, including celebrating Pride Month and appointing Indigenous leaders. They also appreciate strict safety protocols, such as drug testing and a focus on mental health partnerships.",
+    "negative_summary": "Alleged sexual harassment and bullying at Rio Tinto and BHP. Destruction of Aboriginal sites by Rio Tinto. Concerns about gender balance and competency in hiring processes.",
+    "positive_recommendations": [
+      "Enhance diversity and inclusion initiatives",
+      "Sustain rigorous safety and wellbeing programs"
+    ],
+    "negative_recommendations": [
+      "Strengthen harassment policies",
+      "Improve cultural sensitivity"
+    ]
+  },
+  "base_theme_innovation": {
+    "positive_summary": "Autonomous and driverless technology is praised for safety and efficiency in remote areas. Rio Tinto's investment in renewable energy and emissions reduction plans is well-received. Innovations like battery swaps and green energy hubs are seen as forward-thinking.",
+    "negative_summary": "Automation in mining leads to job loss concerns. Autonomous trains face safety and reliability issues. Lack of transparency in technological trials fuels skepticism.",
+    "positive_recommendations": [
+      "Continue expanding autonomous technology",
+      "Enhance renewable energy initiatives"
+    ],
+    "negative_recommendations": [
+      "Improve job transition strategies",
+      "Enhance safety measures for autonomous systems"
+    ]
+  },
+  "base_theme_leadership_management": {
+    "positive_summary": "Leadership transition led by experienced CEO Simon Trott is well-received. Moral integrity in leadership is emphasized as crucial.",
+    "negative_summary": "Management lacks accountability and sincerity, with executives receiving large payouts despite failures. Leadership is disconnected, focusing on presentations without actionable outcomes, and supervisors lack leadership skills.",
+    "positive_recommendations": [
+      "Ensure leaders with strong moral integrity",
+      "Promote transparency in leadership roles"
+    ],
+    "negative_recommendations": [
+      "Enhance leadership training",
+      "Improve accountability and transparency"
+    ]
+  },
+  "base_theme_recognition": {
+    "positive_summary": "Employees benefit from a share matching program and subsidized health insurance. Recognition for outstanding contributions and excellent content creation is valued.",
+    "negative_summary": "Delayed share distribution over 6 years. Inconsistent and low bonus payouts compared to expectations. Lack of merit-based promotions and perceived executive favoritism.",
+    "positive_recommendations": [
+      "Enhance recognition programs",
+      "Increase salary for high performers"
+    ],
+    "negative_recommendations": [
+      "Simplify share distribution",
+      "Ensure transparent and fair bonus criteria"
+    ]
+  },
+  "base_theme_workplace_experience": {
+    "positive_summary": "Employees value rotational equal time off schedules offering better work-life balance and competitive pay. They appreciate the unique work experiences and camaraderie on site.",
+    "negative_summary": "Sick leave reduced from 45 to 12 days, causing dissatisfaction. Complaints about unhealthy workplace culture and excessive management. Concerns over automation replacing jobs.",
+    "positive_recommendations": [
+      "Maintain rotational schedules",
+      "Enhance site amenities"
+    ],
+    "negative_recommendations": [
+      "Review sick leave policy",
+      "Improve workplace culture"
+    ]
+  },
+  "sub_theme_automation_in_mining": {
+    "positive_summary": "Automation reduces labor costs and increases safety with remote monitoring. High-skilled jobs are created, and operational efficiency is enhanced with driverless technology.",
+    "negative_summary": "Job losses due to automation in mining. Concerns about safety and reliability of autonomous vehicles. Skepticism about electric vehicles in mining. Fear of economic impact from reduced human labor.",
+    "positive_recommendations": [
+      "Invest in advanced automation training",
+      "Expand remote control capabilities"
+    ],
+    "negative_recommendations": [
+      "Develop retraining programs for displaced workers",
+      "Enhance safety protocols for autonomous vehicles"
+    ]
+  },
+  "sub_theme_bonus_structure_issues": {
+    "positive_summary": "",
+    "negative_summary": "Bonus amounts are significantly lower than previous years, with a complex calculation method. Employees feel unfairly compensated compared to executive bonuses.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Simplify bonus calculation",
+      "Increase transparency in bonus distribution"
+    ]
+  },
+  "sub_theme_bullying_prevention": {
+    "positive_summary": "The acknowledgment of male-on-male bullying is appreciated as a valid point.",
+    "negative_summary": "Increased bullying with more female staff, entrenched culture of harassment, retaliation against those who speak up, and bullying in mining industry leading to exits.",
+    "positive_recommendations": [
+      "Expand awareness on all forms of bullying",
+      "Continue addressing gender-specific bullying issues"
+    ],
+    "negative_recommendations": [
+      "Implement anti-retaliation policies",
+      "Promote inclusive leadership training"
+    ]
+  },
+  "sub_theme_camp_conditions": {
+    "positive_summary": "Employees enjoy the unique work environment and infrastructure, find the work engaging and memorable, and appreciate decent food and potential for enjoyable experiences.",
+    "negative_summary": "Severe dust and heat conditions, inadequate facilities like group showers and poor bathroom design, isolation leading to loneliness, lack of air conditioning in work vehicles, and insufficient accommodation arrangements.",
+    "positive_recommendations": [
+      "Enhance recreational facilities like gyms",
+      "Ensure high-quality dining options"
+    ],
+    "negative_recommendations": [
+      "Improve facility and living conditions",
+      "Enhance climate control and transportation"
+    ]
+  },
+  "sub_theme_compensation_vs_culture": {
+    "positive_summary": "OzM is appreciated for superior culture and higher pay compared to other companies. BHP is noted for its better structure and culture compared to Rio.",
+    "negative_summary": "Compensation is inadequate to justify a negative work culture. Employees question the value of monetary benefits if job satisfaction is low.",
+    "positive_recommendations": [
+      "Enhance cultural strengths",
+      "Focus on competitive compensation"
+    ],
+    "negative_recommendations": [
+      "Enhance work culture",
+      "Align compensation with employee satisfaction"
+    ]
+  },
+  "sub_theme_consulting_experience": {
+    "positive_summary": "",
+    "negative_summary": "Consulting services are deemed niche with unclear success metrics. Employment stability perceived only for consultants. Workload fluctuates unpredictably, causing staffing issues.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Clarify consulting success metrics",
+      "Improve workload management"
+    ]
+  },
+  "sub_theme_contractor_vs_employee_dynamics": {
+    "positive_summary": "Contractors appreciate the opportunity to work across various impressive mine operations. They value the supportive environment provided by site leaders despite hierarchical differences.",
+    "negative_summary": "Contractors face job instability and inequitable benefits compared to permanent employees. Supervisors and management display favoritism and lack of support, leading to a toxic workplace environment.",
+    "positive_recommendations": [
+      "Enhance contractor support systems",
+      "Promote diverse site exposure"
+    ],
+    "negative_recommendations": [
+      "Enhance contractor benefits",
+      "Improve management and leadership training"
+    ]
+  },
+  "sub_theme_cultural_awareness_initiatives": {
+    "positive_summary": "Cultural awareness initiatives like Two-Way Mentoring and recognition of traditional owners are appreciated. Community connections and shared cultural histories are valued, fostering pride and nostalgia.",
+    "negative_summary": "Cultural and societal issues in Australia are being ignored by outdated leadership. Frustration with lack of awareness and action from authorities.",
+    "positive_recommendations": [
+      "Enhance community engagement activities",
+      "Increase visibility of cultural recognition programs"
+    ],
+    "negative_recommendations": [
+      "Update leadership approaches",
+      "Increase awareness of cultural issues"
+    ]
+  },
+  "sub_theme_cultural_respect": {
+    "positive_summary": "Commitment to a safe, respectful, and inclusive workplace, celebrating diversity with Pride Month. Zero tolerance for hate speech, promoting respect and consideration in language.",
+    "negative_summary": "Destruction of 46,000-year-old site for profit with disregard for cultural significance. Australian companies involved in ethical lapses and cultural disrespect, particularly in mining. Instances of racism and lack of inclusivity noted in Australian culture.",
+    "positive_recommendations": [
+      "Enhance diversity celebrations",
+      "Strengthen hate speech policies"
+    ],
+    "negative_recommendations": [
+      "Enhance cultural preservation efforts",
+      "Increase awareness and training on cultural respect"
+    ]
+  },
+  "sub_theme_cultural_sensitivity_issues": {
+    "positive_summary": "",
+    "negative_summary": "Destruction of culturally significant sites by Rio Tinto. CEO resignation and financial reparations to aboriginal community. Negative comparison to ISIS artifact destruction.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Enhance cultural sensitivity protocols",
+      "Increase stakeholder engagement"
+    ]
+  },
+  "sub_theme_data_transparency_and_accessibility": {
+    "positive_summary": "",
+    "negative_summary": "Oyu Tolgoi and Rio Tinto contract statistics are not open data. Lack of accessibility through artificial intelligence.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Publish contract statistics as open data",
+      "Enhance data accessibility via AI tools"
+    ]
+  },
+  "sub_theme_diversity_in_board": {
+    "positive_summary": "Diversity hiring at entry levels helps balance higher management over time.",
+    "negative_summary": "Perceived bias towards diversity quotas over qualifications. Allegations of diversity hires affecting workforce skill levels. Concerns about ESG metrics prioritizing diversity over merit.",
+    "positive_recommendations": [
+      "Increase diversity recruitment at entry level",
+      "Develop pathways for advancement"
+    ],
+    "negative_recommendations": [
+      "Balance diversity with qualifications",
+      "Refine ESG metrics to include merit"
+    ]
+  },
+  "sub_theme_employee_benefits": {
+    "positive_summary": "Employees value extensive leave options, including 45 site days and 49 sick days. They appreciate earning points on flights and high salaries with allowances for FIFO workers.",
+    "negative_summary": "Sick leave reduced from 45 to 12 days causing dissatisfaction. Employees express concern over flight schedules affecting leave. Perception of benefits being misused leading to policy cuts.",
+    "positive_recommendations": [
+      "Ensure accurate admin processing for flight points",
+      "Sustain generous leave policies"
+    ],
+    "negative_recommendations": [
+      "Review sick leave policy impact",
+      "Improve leave flexibility with flight schedules"
+    ]
+  },
+  "sub_theme_employee_experience_and_satisfaction": {
+    "positive_summary": "Employees value subsidized private health care and share schemes. They appreciate the supportive culture, professional growth opportunities, and the sense of community at work.",
+    "negative_summary": "Reduced benefits like free lunches and scaled-back perks. Negative perceptions of company culture and poor employee relations. Lack of differentiation in pay and benefits among similar companies.",
+    "positive_recommendations": [
+      "Sustain health care and share benefits",
+      "Foster a supportive workplace culture"
+    ],
+    "negative_recommendations": [
+      "Enhance employee benefits",
+      "Strengthen company culture and relations"
+    ]
+  },
+  "sub_theme_employee_feedback": {
+    "positive_summary": "Employees value opportunities to gain valuable experience and stability in commodity markets. They appreciate the chance to advance by starting from the ground up.",
+    "negative_summary": "Engineers from Rio and BHP face negative bias in hiring due to perceived poor training. Employees report career stagnation and lack of complex tasks. Management is seen as ineffective with high HR turnover and unresolved issues.",
+    "positive_recommendations": [
+      "Foster career development paths",
+      "Ensure market stability awareness"
+    ],
+    "negative_recommendations": [
+      "Improve training programs",
+      "Enhance management communication"
+    ]
+  },
+  "sub_theme_employee_morale": {
+    "positive_summary": "",
+    "negative_summary": "Loss of trust in leadership due to involvement with lithium mining. Concerns about leadership being outdated and needing retirement.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Reevaluate leadership strategies",
+      "Consider leadership transition"
+    ]
+  },
+  "sub_theme_employee_retention_challenges": {
+    "positive_summary": "Workers value the bargaining power gained through union membership and collective support.",
+    "negative_summary": "Employees perceive a lack of loyalty from corporations, a toxic work culture, and reduced opportunities in education due to funding cuts.",
+    "positive_recommendations": [
+      "Support unionization efforts",
+      "Encourage collective bargaining"
+    ],
+    "negative_recommendations": [
+      "Promote positive work culture",
+      "Increase transparency and support for career growth"
+    ]
+  },
+  "sub_theme_environmental_sustainability": {
+    "positive_summary": "Recycling practices like melting and reusing molds are valued. Efforts to be environmentally-conscious are appreciated, especially when aligned with industry and government actions.",
+    "negative_summary": "Toxic spills need declaration and compliance with laws. Rio Tinto's factories are outdated for green aluminum production. Use of old diesel locomotives persists while other countries like Norway have electrified railways. Significant water usage is required for iron ore dust suppression in high temperatures. Lithium separation causes severe environmental contamination affecting downstream water supplies.",
+    "positive_recommendations": [
+      "Enhance recycling and resource recovery programs",
+      "Strengthen collaboration with government and research sectors"
+    ],
+    "negative_recommendations": [
+      "Invest in modernizing production facilities",
+      "Adopt eco-friendly technologies and alternatives"
+    ]
+  },
+  "sub_theme_executive_compensation_controversy": {
+    "positive_summary": "",
+    "negative_summary": "Executives receive large bonuses and payouts after misconduct and business failures. Lack of accountability and sincerity in addressing unethical actions.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Implement stricter bonus policies",
+      "Enhance transparency and accountability measures"
+    ]
+  },
+  "sub_theme_gender_equality": {
+    "positive_summary": "Women appreciate equal opportunity initiatives like Rio Tinto's Transferable Pathways Program. Speaking up against workplace sexism is encouraged and seen as brave.",
+    "negative_summary": "Female employees in male-dominated industries face bullying and discrimination. Quotas perceived as unfairly advantage one gender over another, leading to resentment. Concerns about unqualified hires to meet gender balance targets.",
+    "positive_recommendations": [
+      "Enhance inclusive recruitment programs",
+      "Support and protect whistleblowers"
+    ],
+    "negative_recommendations": [
+      "Promote merit-based hiring",
+      "Implement anti-discrimination training"
+    ]
+  },
+  "sub_theme_graduate_programs": {
+    "positive_summary": "Applicants find the Rio Tinto Graduate Program accessible with opportunities in various locations like Invercargill, NZ. The program is valued for its career development potential and its alignment with recent graduates.",
+    "negative_summary": "Graduate roles require experience beyond degree, creating unfair competition. Hiring processes are unclear and lengthy, causing frustration.",
+    "positive_recommendations": [
+      "Enhance location diversity",
+      "Support onboarding for graduates"
+    ],
+    "negative_recommendations": [
+      "Clarify experience requirements",
+      "Improve communication during hiring"
+    ]
+  },
+  "sub_theme_indigenous_community_engagement": {
+    "positive_summary": "Indigenous heritage value is acknowledged through storytelling, cultural sites, and employment opportunities. Efforts to include Indigenous perspectives in decision-making and board appointments are recognized. Respect for cultural heritage is upheld in mining agreements and cultural site preservation.",
+    "negative_summary": "Rio Tinto accused of destroying ancient Aboriginal sites and misleading Indigenous owners. Legal systems seen as inadequate in protecting cultural heritage. Allegations of unethical practices like bribery to bypass local consent.",
+    "positive_recommendations": [
+      "Enhance Indigenous leadership roles",
+      "Strengthen protection of cultural sites"
+    ],
+    "negative_recommendations": [
+      "Strengthen cultural heritage laws",
+      "Increase Indigenous representation on decision boards"
+    ]
+  },
+  "sub_theme_ineffective_supervision": {
+    "positive_summary": "",
+    "negative_summary": "Supervisors lack leadership skills and training. Managers retain incompetent staff for diversity optics. Reports and recommendations often ignored by management.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Provide leadership training for supervisors",
+      "Base staff retention on performance"
+    ]
+  },
+  "sub_theme_innovative_technologies": {
+    "positive_summary": "Innovative technologies improve mineral recovery and logistics. They enable energy-efficient processes like thermal storage batteries and advanced LED signage. Autonomous systems enhance safety and efficiency in transport.",
+    "negative_summary": "Concerns about AI safety and fail-safes. Doubts on economic viability of heap bio-leaching technologies. Safety concerns with driverless and autonomous systems.",
+    "positive_recommendations": [
+      "Continue developing sustainable technologies",
+      "Expand autonomous system applications"
+    ],
+    "negative_recommendations": [
+      "Implement AI safety protocols",
+      "Assess economic feasibility"
+    ]
+  },
+  "sub_theme_internship_opportunities": {
+    "positive_summary": "Internships are available to a wide range of students from junior undergraduates to first-year MS students. The assessment process is engaging, consisting of games. Internships offer significant financial benefits compared to part-time work.",
+    "negative_summary": "Internship opportunities limited to certain schools with biased selection methods. Prolonged application review period causing uncertainty. Lack of internship experience seen as a barrier to career advancement.",
+    "positive_recommendations": [
+      "Expand internship opportunities",
+      "Enhance engaging assessment methods"
+    ],
+    "negative_recommendations": [
+      "Broaden recruitment pool",
+      "Improve application review process"
+    ]
+  },
+  "sub_theme_job_openings": {
+    "positive_summary": "Job opportunities offer global career development and competitive salaries. Positions are available in key commercial hubs like Singapore and Australia, with a strong focus on career growth and professional development.",
+    "negative_summary": "Job reposting increases competition and causes frustration. Lack of job postings despite completed training. Difficulty obtaining jobs without relevant experience or visas.",
+    "positive_recommendations": [
+      "Increase international hiring opportunities",
+      "Enhance career advancement programs"
+    ],
+    "negative_recommendations": [
+      "Increase job transparency",
+      "Provide entry-level opportunities"
+    ]
+  },
+  "sub_theme_labor_hire_queries": {
+    "positive_summary": "Workers benefit from earning frequent flyer points with airlines like Qantas. Entry-level mining jobs offer higher wages compared to Britain, allowing for savings.",
+    "negative_summary": "Difficulty finding labor hire information for BHP and Rio Tinto. Concerns about potential redundancies and layoffs at Rio Tinto. Limited contractor opportunities at BHP, with preference for local companies.",
+    "positive_recommendations": [
+      "Ensure visibility of reward programs",
+      "Highlight lucrative entry-level positions"
+    ],
+    "negative_recommendations": [
+      "Enhance transparency in labor hire processes",
+      "Provide clearer communication on job security"
+    ]
+  },
+  "sub_theme_lack_of_diversity_in_leadership": {
+    "positive_summary": "",
+    "negative_summary": "Management practices hinder hiring women with necessary skills.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Revise leadership hiring policies",
+      "Promote diversity in recruitment"
+    ]
+  },
+  "sub_theme_leadership_accountability": {
+    "positive_summary": "Simon Trott's appointment as CEO praised for leadership in a profitable unit. Emphasis on moral standards and intelligence as key leadership qualities. Courage in leadership recognized positively.",
+    "negative_summary": "Management lacks accountability with delegation issues. Leadership accused of ignoring ethical concerns and prioritizing short-term gains. Upper management disconnected from operational problems.",
+    "positive_recommendations": [
+      "Promote leaders with strong moral and intellectual qualities",
+      "Encourage courage and independent thinking in leadership roles"
+    ],
+    "negative_recommendations": [
+      "Improve leadership accountability",
+      "Foster ethical decision-making"
+    ]
+  },
+  "sub_theme_management_transparency": {
+    "positive_summary": "",
+    "negative_summary": "Upper management perceived as detached and irrelevant to employee surveys. Concerns about mining companies prioritizing financial gains over social responsibilities.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Enhance management engagement",
+      "Reevaluate corporate social responsibility policies"
+    ]
+  },
+  "sub_theme_mental_health_support": {
+    "positive_summary": "Employees value psychological safety and wellbeing initiatives. Partnership with Lifeline WA for mental health support is appreciated. Generous sick leave policies and early intervention for mental health issues are advantageous.",
+    "negative_summary": "Mental health support perceived as inadequate due to reliance on autonomous systems. Employees face restrictions on prescribed medications affecting mental health. Lack of responsiveness from political offices on mental health issues.",
+    "positive_recommendations": [
+      "Enhance mental health partnerships",
+      "Ensure robust sick leave policies"
+    ],
+    "negative_recommendations": [
+      "Enhance mental health support systems",
+      "Review medication policy"
+    ]
+  },
+  "sub_theme_mentorship_and_support_programs": {
+    "positive_summary": "Access to great mentors and a well-structured graduate program that supports a smooth transition into professional roles. Appreciation for individual importance in large organizations.",
+    "negative_summary": "Mentees' perspectives are absent in promotional videos. The focus is solely on mentors' experiences.",
+    "positive_recommendations": [
+      "Enhance visibility of mentorship opportunities",
+      "Maintain personalized support for new graduates"
+    ],
+    "negative_recommendations": [
+      "Include mentee testimonials",
+      "Balance mentor and mentee visibility"
+    ]
+  },
+  "sub_theme_merit_based_promotion": {
+    "positive_summary": "",
+    "negative_summary": "Promotions are perceived as not based on merit. Skepticism about the existence of merit-based promotion systems.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Implement transparent promotion criteria",
+      "Ensure merit-based evaluation process"
+    ]
+  },
+  "sub_theme_negative_morale_and_stress": {
+    "positive_summary": "Prioritizing accuracy over speed reduces stress. Improvements have positively impacted morale.",
+    "negative_summary": "Employees experience a divisive 'Us vs. Them' mentality impacting morale. New hires face mental stress and inflated resumes lead to poor hiring decisions. Toxic work culture with backstabbing and lack of support.",
+    "positive_recommendations": [
+      "Encourage accuracy-focused assessments",
+      "Sustain efforts to uplift workplace atmosphere"
+    ],
+    "negative_recommendations": [
+      "Foster inclusive culture",
+      "Implement supportive mental health initiatives"
+    ]
+  },
+  "sub_theme_onboarding_experience": {
+    "positive_summary": "Employees experience quick and efficient hiring processes with prompt communication. They value job security transitioning from contractor to full-time roles and express excitement about starting work.",
+    "negative_summary": "Onboarding process takes up to 3 months with lack of communication. Expected updates like emails or medical bookings are missing.",
+    "positive_recommendations": [
+      "Ensure rapid hiring communications",
+      "Support contractor to permanent transitions"
+    ],
+    "negative_recommendations": [
+      "Enhance communication during onboarding",
+      "Provide clear timeline for onboarding steps"
+    ]
+  },
+  "sub_theme_perceived_greed_in_compensation": {
+    "positive_summary": "",
+    "negative_summary": "Company possesses significant wealth but fails to adequately compensate employees for essential roles.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Improve compensation for critical roles",
+      "Allocate resources to employee wages"
+    ]
+  },
+  "sub_theme_perceptions_of_work_environment": {
+    "positive_summary": "Employees appreciate the positive work culture. They are eager to engage and learn about the company environment.",
+    "negative_summary": "Perceived cultural misalignment and favoritism in promotions. Concerns about ethics and impact of corporate decisions, particularly in major projects. Negative regional and cultural reputation issues.",
+    "positive_recommendations": [
+      "Foster open communication about company culture",
+      "Encourage employee engagement initiatives"
+    ],
+    "negative_recommendations": [
+      "Enhance cultural inclusivity",
+      "Increase transparency in promotion processes"
+    ]
+  },
+  "sub_theme_pre_start_meetings": {
+    "positive_summary": "Pre-start meetings are valued in smaller operations for efficient workforce management. Training programs are appreciated to prevent workplace challenges.",
+    "negative_summary": "Pre-start meetings are excessively long, often lack important content, and include irrelevant self-congratulatory remarks. They involve repetitive safety bulletins and excessive discussions without contributing to productivity.",
+    "positive_recommendations": [
+      "Enhance training opportunities",
+      "Optimize meeting structures for efficiency"
+    ],
+    "negative_recommendations": [
+      "Reduce meeting duration",
+      "Focus on critical content"
+    ]
+  },
+  "sub_theme_recognition_for_contributions": {
+    "positive_summary": "Recognition for life-saving actions and content creation is valued. Highlighting significant contributions and advocating for salary increases are appreciated.",
+    "negative_summary": "Recognition for contributions in manual labor, such as mining, is undervalued. Suggestion to seek recognition only through academic pursuits.",
+    "positive_recommendations": [
+      "Ensure regular recognition for key contributions",
+      "Consider salary reviews for outstanding performance"
+    ],
+    "negative_recommendations": [
+      "Value contributions across all fields",
+      "Promote recognition for practical skills"
+    ]
+  },
+  "sub_theme_recruitment_process": {
+    "positive_summary": "Candidates value the opportunity to gain relevant experience through internships and vacation work. The recruitment process is seen as a learning opportunity with constructive feedback. Specific examples of success in assessments and interviews are crucial.",
+    "negative_summary": "Hiring processes take months with unclear communication. Graduate roles demand experience. Online assessments are seen as irrelevant and confusing.",
+    "positive_recommendations": [
+      "Enhance feedback mechanisms",
+      "Expand internship opportunities"
+    ],
+    "negative_recommendations": [
+      "Expedite recruitment process",
+      "Clarify job qualifications and assessments"
+    ]
+  },
+  "sub_theme_renewable_energy_initiatives": {
+    "positive_summary": "Initiatives include transforming mines with solar panels, using vanadium batteries, converting power stations to gas and hydrogen, and building wind and solar projects without subsidies. There is a focus on local processing and green steel production, and engagement with communities on emissions reduction plans.",
+    "negative_summary": "Railway lines are not electrified, leading to reliance on diesel. Concerns about insufficient progress in hydrogen initiatives and potential hidden subsidies.",
+    "positive_recommendations": [
+      "Expand renewable energy projects",
+      "Enhance community engagement on sustainability"
+    ],
+    "negative_recommendations": [
+      "Electrify railway lines",
+      "Accelerate hydrogen initiative deployment"
+    ]
+  },
+  "sub_theme_safety_concerns": {
+    "positive_summary": "Careful loading of boats is emphasized to prevent accidents. Recognition is given for safe practices like avoiding suspended loads. Short and easy safety courses are appreciated at worksites.",
+    "negative_summary": "Crushed vehicles due to unsafe practices. Poor dust control and inadequate safety barriers. Overloaded trains and outdated infrastructure. Concerns about insufficient staffing on automated systems.",
+    "positive_recommendations": [
+      "Promote safe loading techniques",
+      "Recognize and reward safe behaviors"
+    ],
+    "negative_recommendations": [
+      "Enhance safety protocols",
+      "Improve infrastructure and dust management"
+    ]
+  },
+  "sub_theme_safety_culture": {
+    "positive_summary": "Employees appreciate enhanced safety measures like breathalyzers and PPE use. They value strict drug and alcohol testing for maintaining a safe work environment.",
+    "negative_summary": "Pre-starts and JHAs are repetitive and ignored. Inexperienced staff fast-tracked to high-risk roles. Management accused of covering liability over safety and removing those who report issues.",
+    "positive_recommendations": [
+      "Continue rigorous safety protocols",
+      "Implement advanced impairment testing methods"
+    ],
+    "negative_recommendations": [
+      "Revise risk assessment procedures",
+      "Enhance safety accountability for management"
+    ]
+  },
+  "sub_theme_salary_expectations": {
+    "positive_summary": "Employees value significant allowances and bonuses, competitive salaries with career growth potential, and benefits differentiation between companies like BHP and Rio.",
+    "negative_summary": "Salary expectations vary significantly between roles with unclear bands. Concerns about lower pay after mergers and lack of transparency in compensation packages.",
+    "positive_recommendations": [
+      "Enhance bonus structures",
+      "Focus on career advancement opportunities"
+    ],
+    "negative_recommendations": [
+      "Clarify salary bands and ranges",
+      "Ensure consistent pay post-merger"
+    ]
+  },
+  "sub_theme_sexual_harassment_allegations": {
+    "positive_summary": "Women speaking up against harassment is appreciated and encouraged. Anonymous reporting options are valued for demonstrating patterns of behavior. Strict workplace policies against harassment are essential.",
+    "negative_summary": "Reports of sexual harassment include being urinated on, groped, and exposed to inappropriate videos. Allegations include use of NDAs to silence victims and failure to address complaints seriously.",
+    "positive_recommendations": [
+      "Promote anonymous reporting channels",
+      "Enforce strict anti-harassment policies"
+    ],
+    "negative_recommendations": [
+      "Implement strict harassment policies",
+      "Ensure transparency and accountability"
+    ]
+  },
+  "sub_theme_share_matching_concerns": {
+    "positive_summary": "Employees appreciate the share matching program and the subsidized health insurance for their families.",
+    "negative_summary": "Rio releases matched shares gradually over 3 years, taking a total of 6 years to fully receive them. BHP provides promised shares at the 3-year mark.",
+    "positive_recommendations": [
+      "Continue enhancing employee benefit programs",
+      "Promote awareness of available benefits"
+    ],
+    "negative_recommendations": [
+      "Accelerate share distribution timeline",
+      "Align share release policy with industry standards"
+    ]
+  },
+  "sub_theme_team_dynamics_and_collaboration": {
+    "positive_summary": "Team members value mutual support and camaraderie, enjoy informal recognition like pats on the back, and appreciate a sense of unity and shared experience across different roles and genders.",
+    "negative_summary": "Uncertainty about team composition and dynamics before joining.",
+    "positive_recommendations": [
+      "Encourage informal recognition",
+      "Foster team unity and camaraderie"
+    ],
+    "negative_recommendations": [
+      "Provide team previews during recruitment",
+      "Enhance transparency on team structures"
+    ]
+  },
+  "sub_theme_toxic_work_environment": {
+    "positive_summary": "",
+    "negative_summary": "Toxic leadership from BHP and Rio Tinto, promotion of unqualified employees based on loyalty, lack of people skills, manipulative corporate culture, and poor work environment in head offices.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Address toxic leadership",
+      "Revise promotion criteria"
+    ]
+  },
+  "sub_theme_work_life_balance": {
+    "positive_summary": "Employees value rotational schedules with extended time off and higher FIFO pay. They appreciate diverse shift formats and the opportunity for personal projects during time off.",
+    "negative_summary": "Schedule manipulations like phantom shifts and counting off-days inflate actual time off. Extended periods away from home like 8-week rotations impact personal life and health. Flight limitations force unnecessary leave usage.",
+    "positive_recommendations": [
+      "Maintain diverse shift options",
+      "Enhance FIFO compensation"
+    ],
+    "negative_recommendations": [
+      "Revise shift scheduling",
+      "Improve flight flexibility"
+    ]
+  },
+  "sub_theme_workplace_culture": {
+    "positive_summary": "Employees value the camaraderie and teamwork required in challenging conditions. They appreciate the significant financial rewards of working in remote mining regions. The scale and complexity of operations invoke a sense of pride and excitement.",
+    "negative_summary": "Automation is replacing skilled jobs, causing job insecurity. Employees experience poor workplace culture, such as over-management and unfair policies. Rio Tinto's operations are criticized for unhealthy culture, long commutes, and inadequate work-life balance.",
+    "positive_recommendations": [
+      "Foster a strong team-oriented culture",
+      "Sustain competitive compensation"
+    ],
+    "negative_recommendations": [
+      "Enhance job security and career development",
+      "Improve workplace culture and policies"
+    ]
+  },
+  "sub_theme_workplace_diversity_and_inclusion": {
+    "positive_summary": "Employees appreciate gender equality and a balanced workforce. They value Rio Tinto's support for women and training opportunities. Positive impact on local communities is also recognized.",
+    "negative_summary": "Concerns about gender ratio in graduate hiring. Perceived cultural bias in hiring practices favoring Australians. Immigrants feel stereotyped and not fully integrated.",
+    "positive_recommendations": [
+      "Enhance support for gender equality",
+      "Strengthen community engagement"
+    ],
+    "negative_recommendations": [
+      "Enhance gender balance in hiring",
+      "Promote cultural diversity and inclusion"
+    ]
+  },
+  "sub_theme_workplace_harassment": {
+    "positive_summary": "Strong community guidelines prevent harassment and promote respectful discussions. Recent cultural shifts in the mining industry have reduced workplace harassment.",
+    "negative_summary": "Reports of harassment and inappropriate behavior by male coworkers. Management allegedly covers up incidents using NDAs. Concerns about safety and toxic culture in mining sites, especially for women.",
+    "positive_recommendations": [
+      "Strengthen community rules enforcement",
+      "Promote ongoing anti-harassment training"
+    ],
+    "negative_recommendations": [
+      "Implement strict harassment reporting and accountability",
+      "Foster inclusive and safe workplace culture"
+    ]
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "base_theme_belonging": {
+    "positive_summary": "Employees feel a strong connection to their heritage and are motivated by ancestral pride, with 26 comments highlighting positive workplace culture. Recognition and appreciation among colleagues are evident, with 20 comments expressing satisfaction with contributions and teamwork. A supportive environment for cultural exchange and comprehensive training programs is noted by 18 comments, particularly in fostering language and gender support.",
+    "negative_summary": "Employees express dissatisfaction with the workplace environment, citing outdated leadership and ignored societal issues, impacting cultural and societal morale. Concerns are raised about the sustainability of teaching positions in rural and Indigenous areas due to funding cuts, affecting job security and community support. There is a perceived disconnect between employees and management, with calls for better integration and communication.",
+    "positive_recommendations": [
+      "Introduce a quarterly cultural heritage celebration to strengthen employee connection and pride",
+      "Establish a recognition program to highlight colleague contributions monthly, aiming for 90% participation",
+      "Launch a mentorship program focused on cultural exchange and language learning, pairing 50 employees by year-end"
+    ],
+    "negative_recommendations": [
+      "Implement a bi-monthly leadership forum addressing societal concerns and workplace culture",
+      "Establish a funding review committee to secure teaching positions in rural and Indigenous areas with quarterly updates",
+      "Launch a monthly management-employee feedback session to enhance communication and integration"
+    ]
+  },
+  "base_theme_hiring_careers": {
+    "positive_summary": "Employees appreciate the structured career development opportunities and competitive salaries, with specific examples of six-figure salary offers and roles that emphasize skill acquisition over time. The Capesize Operations Manager role in Singapore and flexible work arrangements in Perth are highlighted as attractive positions, offering significant career advancement and sustainability impact. Graduates and new hires benefit from evaluation based on relevant experience, such as internships, and the potential for progression through entry-level roles and quarterly reviews.",
+    "negative_summary": "Graduate roles at Rio Tinto require experience, causing frustration over perceived unprofessionalism. There is a lack of transparency in the hiring process, with candidates facing lengthy timelines and unclear rejection reasons. Significant pay disparity exists, with lower-level employees earning less than €1,000 compared to C-level managers earning up to €5,000 net.",
+    "positive_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates to streamline the recruitment process.",
+      "Create a structured mentorship program pairing senior staff with new hires to facilitate skill development and career progression.",
+      "Establish quarterly performance reviews with clear promotion criteria to support employee advancement and retention."
+    ],
+    "negative_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates",
+      "Establish transparent salary bands and communicate them during the hiring process",
+      "Create a mentorship program for graduates to gain industry experience"
+    ]
+  },
+  "base_theme_inclusion_safety": {
+    "positive_summary": "The Closure team is fostering a culture of wellbeing by emphasizing physical and psychological safety, with notable efforts in addressing sexism and advocating for women's rights. The company has implemented mandatory daily breathalyzer tests and promotes autonomy in PPE usage, enhancing safety protocols. Rio Tinto actively works towards inclusivity by celebrating Pride Month and enforcing strict anti-harassment policies, ensuring a respectful environment.",
+    "negative_summary": "Employees report ineffective safety briefings and a lack of diversity, with concerns about being judged on identity rather than merit. Allegations of systemic harassment and discrimination at Rio Tinto and BHP include severe incidents and a class action lawsuit. Cultural heritage concerns are noted, with plans to destroy Aboriginal sites causing anxiety among employees.",
+    "positive_recommendations": [
+      "Implement monthly workshops on psychological safety and wellbeing for all teams",
+      "Establish a quarterly review of safety policies with employee feedback sessions",
+      "Launch a mentorship program pairing senior female staff with new hires to promote women's rights"
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly safety procedure reviews with site-experienced staff to ensure relevance and effectiveness",
+      "Establish a diversity and inclusion task force to set and monitor clear, merit-based hiring criteria",
+      "Implement a zero-tolerance policy for harassment with mandatory quarterly training and anonymous reporting channels"
+    ]
+  },
+  "base_theme_innovation": {
+    "positive_summary": "Employees commend the innovative use of autonomous technology, such as driverless ore trains and remote vehicle operations managed from Perth. The environmental transformation at the Riotinto mine, including the installation of 75,000 solar panels, represents a significant shift towards sustainable energy. The trial of electric trucks with battery swap technology at a large copper mine is seen as a forward-thinking initiative.",
+    "negative_summary": "Employees express concerns about safety and operational efficiency with driverless trains, including frequent derailments and intimidating presence. There is skepticism about transitioning to battery electric power for large equipment and a lack of railway system electrification. Concerns also revolve around job displacement due to automation and lack of contingency plans for AI malfunctions.",
+    "positive_recommendations": [
+      "Expand the trial of electric trucks to additional sites within 12 months to further sustainability efforts.",
+      "Develop a comprehensive training program for employees on autonomous technology to address job displacement concerns, with a target completion rate of 90% within 6 months.",
+      "Increase the number of solar panels at the Riotinto mine by 20% within the next year to enhance renewable energy usage."
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly safety audits and publish results to address driverless train safety concerns",
+      "Initiate a pilot program to transition 10% of locomotives to battery electric within 2 years",
+      "Develop a comprehensive AI contingency plan with annual reviews and updates"
+    ]
+  },
+  "base_theme_leadership_management": {
+    "positive_summary": "Employees value the intelligence and expertise of their leaders, highlighting these as rare and important qualities. There is a strong emphasis on the moral integrity of leadership, suggesting the need for moral assessments before leaders take on public roles.",
+    "negative_summary": "Leadership changes frequently, causing shifts in company goals and ideals, with a focus on personal financial gain. There is a failure to take responsibility for waste disposal, relying on outdated regulations, and a tendency to hire based on the lowest bid, leading to poor outcomes. Employees feel threatened by potential redundancies, and there's a lack of open communication with management.",
+    "positive_recommendations": [
+      "Implement a quarterly 'Leadership Integrity Assessment' to evaluate and ensure leaders maintain high moral standards.",
+      "Establish a 'Leadership Expertise Recognition Program' to acknowledge and reward leaders who demonstrate exceptional intelligence and expertise."
+    ],
+    "negative_recommendations": [
+      "Establish a transparent leadership transition plan with a 6-month notice period for changes",
+      "Implement a waste management accountability program with quarterly audits",
+      "Create a 30-day hiring review process to ensure quality and accountability"
+    ]
+  },
+  "base_theme_recognition": {
+    "positive_summary": "Employees receive recognition for exceptional performance through rewards and acknowledgment of significant contributions that positively impact others. The company supports employees with a share matching program, enhancing financial incentives.",
+    "negative_summary": "The company issued its lowest half-yearly bonus in five years, amounting to half of last year's bonus for the same period, with bonuses influenced by safety and production metrics. Employees feel undervalued and underpaid, frustrated by Rio's policy of distributing matched shares over six years, delaying full access to shares.",
+    "positive_recommendations": [
+      "Introduce a quarterly recognition program with specific criteria for exceptional contributions",
+      "Implement a monthly acknowledgment system where managers highlight team achievements in meetings",
+      "Expand the share matching program to include a wider range of employees by the end of the fiscal year"
+    ],
+    "negative_recommendations": [
+      "Reassess bonus structure to ensure individual performance is adequately rewarded, aiming for a 10% increase in satisfaction scores related to bonuses within one year.",
+      "Reduce share distribution period from six years to three years to improve employee satisfaction and retention rates, targeting a 15% reduction in turnover within two years.",
+      "Conduct quarterly town hall meetings to address employee concerns and provide transparent updates on bonus and share distribution policies, aiming for a 20% increase in employee engagement scores."
+    ]
+  },
+  "base_theme_workplace_experience": {
+    "positive_summary": "Employees appreciate the flexibility and work-life balance of rotational equal time off jobs compared to traditional roles, with 60 comments highlighting this benefit. In the Pilbara, mechanics contribute to shipping over 75 million tonnes, showcasing high-output operations. Kennecott's longstanding presence in Utah significantly impacts local families and infrastructure.",
+    "negative_summary": "Employees face significant inconvenience due to misleading time-off calculations and restrictive flight schedules, requiring additional leave. Concerns about safety and teamwork arise from incidents like conveyor collisions and inadequate task delegation. Reduced sick leave and unfair dismissal practices at companies like BHP and Rio Tinto contribute to dissatisfaction.",
+    "positive_recommendations": [
+      "Implement rotational equal time off options for 50% of new roles within a year to enhance work-life balance",
+      "Introduce a quarterly recognition program for experienced employees in mining operations to acknowledge contributions",
+      "Establish a feedback system to address and resolve admin errors in flight bookings within 48 hours"
+    ],
+    "negative_recommendations": [
+      "Revise flight schedules to minimize additional leave days required for travel",
+      "Implement a transparent time-off calculation system excluding scheduled off days",
+      "Introduce a safety training program focusing on equipment operation and teamwork"
+    ]
+  },
+  "sub_theme_automation_in_mining": {
+    "positive_summary": "Automation in mining is positively received, with 75 comments highlighting the efficiency of autonomous train operations in remote Australian areas. Employees appreciate the autonomy in their roles, with 54 comments noting the efficiency of remote operations. Additionally, 44 comments express intrigue and curiosity about driverless technology implementation, while 43 comments commend the use of automation technology in Gudai-darri and sustainable practices with battery swap electric trucks.",
+    "negative_summary": "Autonomous trains frequently derail, causing safety concerns and questioning the efficiency of driver roles. Employees are worried about job security due to automation, and there is confusion about responsibility in train operations. Recent incidents, such as a vehicle overturning in Pilbara, highlight safety and cost management issues.",
+    "positive_recommendations": [
+      "Expand autonomous train operations to additional remote sites within 12 months to leverage efficiency gains.",
+      "Initiate a quarterly feedback loop for employees to share insights on remote operation experiences, aiming for a 20% increase in operational efficiency feedback.",
+      "Conduct a bi-annual review of driverless technology implementations to ensure safety and engagement, targeting a 15% reduction in operational incidents."
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly safety audits on autonomous train systems to reduce derailments by 50%",
+      "Implement a clear protocol for train initialization responsibilities with a target of reducing procedural confusion by 75% within 6 months",
+      "Develop a transition plan for employees affected by automation, aiming to retrain or reassign 80% within 12 months"
+    ]
+  },
+  "sub_theme_bonus_structure_issues": {
+    "positive_summary": "",
+    "negative_summary": "The bonus calculation for ground workers and non-leading hand roles is unfavorable, with a recent half-yearly bonus being the lowest in five years at half the amount given last year. Despite achieving 3,800, which exceeds the minimum target of 3,000, it falls significantly short of the maximum target of 9,000, affecting bonus outcomes.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Revise bonus formula to include a more balanced weight between safety metrics and performance targets",
+      "Set realistic bonus targets aligned with historical performance data to ensure achievable goals",
+      "Implement quarterly bonus reviews to adjust targets and multipliers based on current performance trends"
+    ]
+  },
+  "sub_theme_bullying_prevention": {
+    "positive_summary": "Acknowledgement of male-on-male bullying as a valid issue highlights increased awareness and validation of diverse bullying scenarios. This recognition is a positive step towards inclusive workplace policies.",
+    "negative_summary": "Employees experience bullying, harassment, and persecution, with severe consequences such as termination or damage to their reputation when they report these issues. Despite being noted as relatively better among major mining companies, Rio Tinto's workplace environment still suffers from low standards.",
+    "positive_recommendations": [
+      "Conduct quarterly workshops on bullying prevention with a focus on male-on-male scenarios",
+      "Implement an anonymous reporting system to track bullying incidents, aiming for a 20% increase in reporting accuracy within six months"
+    ],
+    "negative_recommendations": [
+      "Establish a confidential reporting system for harassment with a 48-hour response guarantee",
+      "Conduct mandatory quarterly anti-bullying training sessions for all employees",
+      "Implement a zero-tolerance policy with clear disciplinary actions for bullying incidents"
+    ]
+  },
+  "sub_theme_camp_conditions": {
+    "positive_summary": "Employees appreciate the relevance of work-related content and express enjoyment despite challenging conditions at the iron ore mine in South Africa. The IOC camp is generally perceived as decent, with inquiries about gym availability and food quality indicating potential areas for enhancement.",
+    "negative_summary": "Employees face significant challenges with workplace conditions, including loud environments and poor air quality, with 27 comments highlighting these issues. Additionally, 23 comments criticize the inadequate quality of mine camps, particularly due to partnerships with Sodexo, and a lack of investment from companies like Rio Tinto and BHP. A smaller group of comments, approximately 5, mention isolation during time off due to insufficient social connections.",
+    "positive_recommendations": [
+      "Install a gym facility at the IOC camp within the next 6 months to improve employee satisfaction and well-being.",
+      "Conduct a quarterly survey to assess and improve the quality and variety of food offered at the camp, aiming for a 10% increase in satisfaction ratings by year-end."
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly noise and air quality assessments to address environmental concerns",
+      "Partner with a new food service provider for mine camps and conduct bi-annual satisfaction surveys",
+      "Organize monthly social events to foster connections and reduce isolation during time off"
+    ]
+  },
+  "sub_theme_compensation_vs_culture": {
+    "positive_summary": "OzM's workplace culture is perceived as superior, and it offers higher compensation compared to competitors. Employees note that Rio provides higher pay than BHP, indicating a competitive compensation landscape.",
+    "negative_summary": "Employees find that financial incentives are insufficient to offset a negative workplace culture, leading to dissatisfaction. The lack of adequate compensation fails to motivate employees, contributing to a poor work environment.",
+    "positive_recommendations": [
+      "Conduct a compensation benchmarking study to ensure competitive pay, targeting a 10% increase in employee satisfaction by next quarter",
+      "Develop a quarterly culture assessment survey to identify and maintain key cultural strengths, aiming for a 90% positive culture rating",
+      "Establish a cross-company compensation review committee to align pay structures with industry standards, with bi-annual reports on progress"
+    ],
+    "negative_recommendations": [
+      "Introduce a quarterly bonus program tied to team performance metrics to enhance motivation and satisfaction",
+      "Conduct bi-annual employee satisfaction surveys to identify and address specific cultural issues",
+      "Implement a transparent compensation review process every six months to ensure alignment with market standards"
+    ]
+  },
+  "sub_theme_consulting_experience": {
+    "positive_summary": "",
+    "negative_summary": "Employees express uncertainty about the impact of Rio Tinto's PACE in-house consulting service, questioning its effectiveness and success. Concerns about job security are noted, with consultants perceived as having the only stable positions within the company.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Conduct a quarterly impact assessment of PACE consulting services with a detailed report shared with employees",
+      "Establish a transparent job security communication plan with bi-annual updates to all staff",
+      "Implement a feedback mechanism for employees to evaluate PACE service effectiveness, aiming for a 75% satisfaction rate within six months"
+    ]
+  },
+  "sub_theme_contractor_vs_employee_dynamics": {
+    "positive_summary": "Employees appreciate the broad coverage of Rio Tinto projects across multiple mining sites, indicating high job satisfaction and engagement. Contractors express a strong preference for on-site work, showing satisfaction with their roles across various companies in the Pilbara region.",
+    "negative_summary": "Concerns about recognition and fairness are prevalent, with contractors feeling undervalued despite doing most of the work, and issues with unfair dismissal practices are noted. Additionally, BHP's benefits are perceived as inferior to Rio's, and only higher-level positions are eligible for the Short-Term Incentive Plan, excluding many operational roles.",
+    "positive_recommendations": [
+      "Develop a contractor engagement program to maintain high satisfaction levels, targeting a 10% increase in on-site contractor retention within 12 months",
+      "Implement quarterly feedback sessions for contractors working across multiple sites to ensure continued job satisfaction and address any site-specific issues",
+      "Create a recognition system for contractors who demonstrate high engagement and satisfaction, aiming to award 5-10 contractors quarterly"
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly reviews to ensure fair recognition of contractor contributions, aiming for a 10% increase in contractor satisfaction scores within a year.",
+      "Expand Short-Term Incentive Plan eligibility to include non-supervisory roles, targeting a 20% increase in participation from operational staff within six months."
+    ]
+  },
+  "sub_theme_cultural_awareness_initiatives": {
+    "positive_summary": "Employees appreciate the cultural awareness initiatives, such as the Two-way Mentoring program at Rio Tinto, which enhances cultural understanding by pairing Indigenous employees with senior leaders. The recognition of Indiji-Corp with the Care, Courage and Curiosity award highlights the company's commitment to cultural competency. Additionally, efforts to preserve cultural heritage, like incorporating Wulguru language into lessons, are positively acknowledged.",
+    "negative_summary": "Employees express frustration with outdated leadership ignoring societal issues, despite the community's resilient and supportive nature. There is a call for leadership to acknowledge and address these issues to align with the community's values.",
+    "positive_recommendations": [
+      "Expand the Two-way Mentoring program to include 20% more participants within the next year to further enhance cultural knowledge exchange.",
+      "Develop a series of virtual tours showcasing significant cultural landmarks in Rio Tinto with detailed descriptions, to be completed within six months.",
+      "Introduce quarterly workshops to teach and promote the use of local Indigenous languages, aiming for 50% employee participation by year-end."
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly leadership training focused on current societal issues with measurable impact assessments",
+      "Establish a bi-annual feedback loop where employees can voice concerns directly to leadership with follow-up action plans"
+    ]
+  },
+  "sub_theme_cultural_respect": {
+    "positive_summary": "Rio Tinto is strengthening its workplace culture by actively promoting safety, respect, and inclusivity, particularly through initiatives like celebrating Pride Month and enforcing a zero-tolerance policy on hate speech. The company is focused on preventing harmful behaviors and supporting LGBTQ+ team members and their families.",
+    "negative_summary": "Employees report dismissive management feedback on cultural inclusivity and ethical lapses in handling cultural artifacts, with 20 comments highlighting these issues. Additionally, 17 comments criticize Rio Tinto for the destruction of culturally significant sites, such as a 46,000-year-old cave and the Juukan Gorge, indicating a pattern of cultural and environmental negligence.",
+    "positive_recommendations": [
+      "Conduct quarterly workshops on inclusivity and respect to reinforce zero-tolerance policies",
+      "Launch a monthly recognition program for employees who exemplify cultural respect and inclusivity",
+      "Implement a bi-annual survey to measure employee perceptions of safety and respect, aiming for a 90% satisfaction rate"
+    ],
+    "negative_recommendations": [
+      "Conduct quarterly cultural sensitivity training for management with a 90% participation target",
+      "Establish a cultural heritage preservation policy with annual audits to ensure compliance",
+      "Implement a feedback system for cultural inclusivity concerns with a 30-day response time"
+    ]
+  },
+  "sub_theme_cultural_sensitivity_issues": {
+    "positive_summary": "",
+    "negative_summary": "Employees criticize the leadership for prioritizing financial gain over cultural preservation, resulting in the CEO's dismissal and costly reparations with the Aboriginal community. This incident caused significant negative public relations for the company.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Establish a cultural sensitivity training program for leadership with quarterly assessments to ensure alignment with community values",
+      "Create a cultural advisory board with representatives from affected communities to provide guidance on company actions and policies",
+      "Implement a public relations strategy to address and rectify past cultural insensitivity incidents, with quarterly progress reports"
+    ]
+  },
+  "sub_theme_data_transparency_and_accessibility": {
+    "positive_summary": "",
+    "negative_summary": "There is a lack of transparency in making Oyu Tolgoi and Rio Tinto contract statistics publicly accessible, which could be addressed by leveraging AI technologies.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Develop an AI-driven platform to publish Oyu Tolgoi and Rio Tinto contract statistics by Q2 2024",
+      "Conduct quarterly audits to ensure all contract data is updated and accessible on the platform"
+    ]
+  },
+  "sub_theme_diversity_in_board": {
+    "positive_summary": "An initiative to increase diversity hiring at entry-level positions is suggested to gradually achieve balanced representation in higher management. This approach aims to build a diverse leadership pipeline over time.",
+    "negative_summary": "Concerns about diversity hiring practices include supervisors admitting to being diversity hires without formal qualifications, suggesting flaws in the hiring process. Gender imbalance is noted, with women filling many environmental roles and men predominantly holding director positions, highlighting perceived disparities in leadership diversity.",
+    "positive_recommendations": [
+      "Implement a diversity-focused entry-level recruitment program with a target of 30% diverse hires within the next year",
+      "Establish a mentorship program pairing diverse entry-level employees with senior management to support career progression"
+    ],
+    "negative_recommendations": [
+      "Implement a transparent qualification verification process for all hires within 60 days",
+      "Conduct a gender diversity audit in leadership roles and publish findings within 90 days",
+      "Launch a diversity mentorship program pairing diverse junior staff with senior leaders within 6 months"
+    ]
+  },
+  "sub_theme_employee_benefits": {
+    "positive_summary": "The company offers a generous leave policy, allowing employees to work only 122 days a year while earning close to $180k, with FIFO workers benefiting from an even roster and substantial leave entitlements. Employees and contractors earn points for flights booked by Rio, including charter flights, though flights are typically only provided from selected in-state airports.",
+    "negative_summary": "Rio Tinto is planning to reduce sick leave for Pilbara workers from 45 to 12 days, raising concerns about potential policy abuse. The company has a history of reducing employee benefits and relies on criticized benefits to attract talent rather than offering competitive salaries.",
+    "positive_recommendations": [
+      "Expand flight coverage to include interstate travel for increased convenience and satisfaction",
+      "Introduce a system to automatically rectify admin errors in flight bookings to enhance employee experience",
+      "Develop a communication strategy to clearly explain leave policies and benefits to maximize employee awareness and satisfaction"
+    ],
+    "negative_recommendations": [
+      "Maintain sick leave at 45 days for Pilbara workers and implement a monitoring system to prevent abuse",
+      "Conduct a salary benchmarking study within 3 months to adjust salaries to competitive market rates",
+      "Develop a comprehensive benefits review process to ensure offerings align with employee needs and market standards"
+    ]
+  },
+  "sub_theme_employee_experience_and_satisfaction": {
+    "positive_summary": "Employees demonstrate resilience and appreciate concise communication, contributing to strong workplace satisfaction. Luíza Fernandes has a notable family connection to the factory, planning a visit with her family on the 19th for a potential reunion.",
+    "negative_summary": "There is dissatisfaction with the decreased availability of free lunches, which were previously appreciated by employees. This change has negatively impacted employee satisfaction, particularly among those in shift-based roles.",
+    "positive_recommendations": [
+      "Establish a monthly recognition program to highlight and reward strong work ethic and resilience",
+      "Organize quarterly family days at the factory to strengthen community ties and employee satisfaction"
+    ],
+    "negative_recommendations": [
+      "Reintroduce free lunches at least twice a week and monitor employee satisfaction through monthly surveys",
+      "Implement a system to fairly distribute leftover meals to all teams, ensuring equitable access",
+      "Conduct quarterly reviews of employee feedback on meal availability to adjust offerings as needed"
+    ]
+  },
+  "sub_theme_employee_feedback": {
+    "positive_summary": "Employees appreciate the competitive nature of securing roles in BHP's IROC, which typically requires starting from foundational positions and demonstrating interest during quarterly reviews. The process is valued for its strategic career planning opportunities, despite being lengthy due to limited roles and high demand.",
+    "negative_summary": "Employees perceive a lack of honest feedback, leading to misunderstandings about performance expectations and unsustainable stress, particularly for roles like Electrical Engineers specializing in Automation. There is a belief that union membership could enhance earnings, and early career experience at companies like RIO, BHP, or FMI is seen as advantageous in larger operations.",
+    "positive_recommendations": [
+      "Implement a 30-day hiring timeline for IROC roles with weekly status updates to streamline the process and maintain candidate engagement.",
+      "Establish a mentorship program pairing current IROC employees with interested candidates to guide them through the career progression process."
+    ],
+    "negative_recommendations": [
+      "Implement monthly feedback sessions to clarify performance expectations",
+      "Introduce stress management workshops for high-pressure roles",
+      "Develop a transparent earnings discussion platform to address union membership perceptions"
+    ]
+  },
+  "sub_theme_employee_morale": {
+    "positive_summary": "",
+    "negative_summary": "Employees express dissatisfaction with leadership due to unresolved issues related to the lithium mine and external influences. There is a call for leadership change, suggesting the current leader should retire and alleviate the burdens from past work.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Conduct a leadership review within 60 days to assess and address concerns about external influences and decision-making related to the lithium mine.",
+      "Implement a succession planning initiative to identify and prepare potential leaders for transition within the next 6 months.",
+      "Establish a quarterly town hall meeting for employees to voice concerns and for leaders to provide updates on mine-related issues."
+    ]
+  },
+  "sub_theme_employee_retention_challenges": {
+    "positive_summary": "Unionization is recognized as a key factor in enhancing collective bargaining power, which contributes positively to employee retention. This approach empowers employees by giving them a stronger voice in negotiations, fostering a more equitable workplace environment.",
+    "negative_summary": "Employees have left due to a toxic work culture and unmet expectations of long-term career stability. There is a lack of support in critical areas, leading to retention challenges.",
+    "positive_recommendations": [
+      "Establish a quarterly union meeting to discuss and address employee concerns, aiming for a 20% increase in employee satisfaction scores within one year",
+      "Implement a union-led feedback system to track and resolve workplace issues, targeting a 15% reduction in employee turnover over the next 12 months"
+    ],
+    "negative_recommendations": [
+      "Implement a structured mentorship program pairing senior staff with new hires to improve team dynamics and career stability",
+      "Conduct quarterly employee satisfaction surveys to identify and address toxic work culture elements",
+      "Establish a clear career progression framework with defined milestones and timelines to align employee expectations"
+    ]
+  },
+  "sub_theme_environmental_sustainability": {
+    "positive_summary": "Efforts to implement green initiatives are being renewed with a focus on collaboration between industries, government, and research sectors to address treatment challenges. There is a need for easier treatment methods for products involving acid-base mixtures, with specific suggestions for collaboration and study.",
+    "negative_summary": "The company is not declaring toxic spills and is failing to comply with environmental laws. There is an urgent need for investment in research to develop eco-friendly alternatives to aluminum, as current practices significantly impact the environment. Rio Tinto's outdated factories are incapable of producing green aluminum, exacerbating ecological concerns.",
+    "positive_recommendations": [
+      "Initiate a cross-sector task force to develop and implement green treatment methods within 12 months",
+      "Conduct a bi-annual review of sustainability initiatives with clear metrics for success",
+      "Launch a pilot program for new acid-base treatment methods with a target to reduce processing time by 20% within the first year"
+    ],
+    "negative_recommendations": [
+      "Establish a compliance task force to ensure all toxic spills are reported within 24 hours",
+      "Allocate 10% of the annual R&D budget to develop eco-friendly aluminum alternatives by 2025",
+      "Upgrade 50% of factory equipment to green technology within the next 3 years"
+    ]
+  },
+  "sub_theme_executive_compensation_controversy": {
+    "positive_summary": "",
+    "negative_summary": "Employees express dissatisfaction with executives receiving large bonuses and generous exit packages, especially following government assistance and controversial actions. Concerns are raised about the destruction of sites with ancient artifacts and the perceived disregard for cultural heritage, as well as hesitations about executive roles in China due to legal and ethical controversies.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Limit executive bonuses to a maximum of 10% of base salary during financial assistance periods",
+      "Establish a cultural heritage preservation policy with annual audits to ensure compliance",
+      "Implement a transparent exit package policy with clear criteria and board oversight"
+    ]
+  },
+  "sub_theme_gender_equality": {
+    "positive_summary": "The workplace supports gender equality by providing a positive environment for women, as evidenced by the successful recruitment of 32 women into leadership roles through the Transferable Pathways Program. Standardized rules ensure fairness and ethical treatment across roles, while women who address sexism demonstrate bravery and receive support.",
+    "negative_summary": "Some male employees assume female colleagues are present solely due to their gender, indicating a potential bias issue. There is a perceived imbalance in hiring practices, with some employees feeling that less qualified individuals are placed in roles to meet diversity targets, leading to workplace bullying. Concerns about women not wearing PPE while working were raised, suggesting a need for better enforcement or accommodation of PPE requirements.",
+    "positive_recommendations": [
+      "Implement a quarterly review of recruitment programs to ensure continued success in gender diversity, aiming to increase female leadership roles by 10% annually.",
+      "Establish a structured support system for women reporting sexism, including a confidential reporting channel and mandatory training for managers to address such issues promptly.",
+      "Develop a mentorship program pairing senior female leaders with new female employees to foster career development and retention, targeting a 20% increase in female employee retention over two years."
+    ],
+    "negative_recommendations": [
+      "Conduct bias awareness training for all employees within the next quarter to address gender assumptions and biases.",
+      "Review and adjust hiring practices to ensure qualifications are prioritized over diversity targets, with quarterly audits to assess balance and fairness.",
+      "Implement PPE compliance checks and accommodations for all employees, aiming for 100% compliance within six months."
+    ]
+  },
+  "sub_theme_graduate_programs": {
+    "positive_summary": "The Rio Tinto Graduate Program in Engineering, located in Invercargill, Southland, NZ, is actively recruiting, with a job posting dated October 31, 2025. The ATAL program, co-designed with Traditional Owner groups, is successfully equipping Aboriginal participants in Pilbara with sustainable employment skills. Employees highlight the program's helpfulness and enjoyment as key benefits.",
+    "negative_summary": "The 2024 traineeship program's initial assessment involves a personality test that may not align with candidate expectations, and the lower salary compared to competitors like Rio Tinto is a concern. Additionally, the current drug policy may deter socially conscious graduates, and there is a perception that experience at large organizations could limit future job opportunities.",
+    "positive_recommendations": [
+      "Develop an informational webinar series for potential applicants to provide insights into program structure and benefits, targeting a 25% increase in applications.",
+      "Establish a mentorship program pairing current participants with alumni to enhance program helpfulness and enjoyment, aiming for a 90% satisfaction rate among new graduates.",
+      "Implement a feedback loop with Traditional Owner groups to continuously refine the ATAL program, ensuring a 10% increase in participant employment rates year-over-year."
+    ],
+    "negative_recommendations": [
+      "Revise the initial assessment process to include clear expectations and feedback within 2 weeks of completion",
+      "Conduct a salary benchmarking study to ensure competitive compensation packages by Q2 2024",
+      "Review and potentially update the drug policy to align with modern social standards by Q1 2024"
+    ]
+  },
+  "sub_theme_indigenous_community_engagement": {
+    "positive_summary": "The workplace is recognized for its commitment to preserving Indigenous cultural heritage, with 43 comments highlighting the importance of respecting Aboriginal traditions and storytelling. There is a noted emphasis on the need for greater acknowledgment and protection of Indigenous cultural legacy.",
+    "negative_summary": "In the Pilbara region, companies reportedly destroy artifacts to avoid operational delays, as financial penalties are less than potential losses. Concerns about Rio Tinto's plans to destroy 124 Aboriginal heritage sites highlight significant cultural and environmental impacts. Employees express dissatisfaction with perceived cultural suppression, describing it as 'cultural genocide'.",
+    "positive_recommendations": [
+      "Develop a bi-annual Indigenous cultural awareness workshop for all employees to increase understanding and respect for Aboriginal traditions",
+      "Establish a partnership with local Indigenous communities to co-create a cultural preservation initiative, with quarterly progress reviews",
+      "Introduce a feedback mechanism to gather Indigenous community input on company policies, aiming for a 50% increase in community engagement within the next year"
+    ],
+    "negative_recommendations": [
+      "Establish a mandatory review process for projects impacting cultural sites, with a goal of reducing destruction incidents by 50% within a year.",
+      "Implement a zero-tolerance policy for racist language in the workplace, with quarterly training sessions for all employees.",
+      "Create a cultural heritage advisory board with Indigenous representatives to review and approve all site-related decisions, aiming for 100% compliance by end of next year."
+    ]
+  },
+  "sub_theme_ineffective_supervision": {
+    "positive_summary": "",
+    "negative_summary": "Software teams face disorganization due to excessive leadership layers, causing repetitive tasks and conflicts over tool selection without achieving desired outcomes. General Managers disregard PACE's recommendations, which are beyond PACE's implementation scope. Data science teams suffer from a toxic culture with leadership issues, where competent employees are overlooked for promotions, and foreign members contribute to team issues.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Reduce management layers in software teams by 20% within six months to streamline decision-making.",
+      "Require General Managers to review and report on PACE recommendations quarterly, ensuring alignment with implementation capabilities.",
+      "Implement a quarterly leadership training program focusing on cultural sensitivity and conflict resolution for all team leaders."
+    ]
+  },
+  "sub_theme_innovative_technologies": {
+    "positive_summary": "Employees appreciate the innovative technology that enhances operational efficiency, such as the use of RGBW LED Modules for signage updates. Companies like BHP and Freeport are exploring advanced leaching technologies for copper recovery, and the conversion of coal power stations into Thermal Storage Batteries is noted for improving grid stability.",
+    "negative_summary": "Employees express concerns about the lack of contingency plans for AI malfunctions and inadequate integration of backup systems during commissioning phases. There is skepticism regarding the high costs and technical complexity of Nuton Technology, with doubts about its recovery efficiency on low-grade copper sulphide ores.",
+    "positive_recommendations": [
+      "Upgrade all signage to RGBW LED Modules within 12 months to improve operational consistency",
+      "Partner with BHP and Freeport to pilot new leaching technologies, aiming for a 10% increase in copper recovery efficiency within the next year",
+      "Convert 50% of outdated coal power stations to Thermal Storage Batteries within 2 years to enhance grid stability"
+    ],
+    "negative_recommendations": [
+      "Develop and implement a comprehensive AI contingency plan within 60 days to address potential malfunctions.",
+      "Integrate backup systems into existing logic frameworks like PLC or Delta V within 90 days to ensure operational reliability.",
+      "Conduct a detailed cost-benefit analysis of Nuton Technology against traditional methods and share findings with stakeholders within 3 months."
+    ]
+  },
+  "sub_theme_internship_opportunities": {
+    "positive_summary": "Rio Tinto's hydrogeologist internship provides valuable experience for junior undergraduates and first-year MS students in the mining sector, offering potentially better pay and more engaging work than typical entry-level environmental field tech jobs. Former graduate school peers report positive experiences and potential career advancement opportunities at Rio Tinto. The internship assessment includes a 25-minute game-based evaluation.",
+    "negative_summary": "Concerns include inadequate living accommodations at the end of the internship program and limited recruitment from a narrow selection of schools. Additionally, there is a lack of clarity regarding environmental and safety issues, particularly concerning uranium content at OD.",
+    "positive_recommendations": [
+      "Develop a structured mentorship program pairing interns with experienced professionals to enhance learning and career growth",
+      "Standardize internship assessments with a 25-minute game-based evaluation to ensure consistency and fairness",
+      "Conduct quarterly surveys with interns to gather feedback and improve internship offerings"
+    ],
+    "negative_recommendations": [
+      "Conduct a quarterly review of internship accommodations with a target satisfaction rating of 80% or higher",
+      "Expand recruitment to include at least 10 additional schools by the next academic year",
+      "Implement a monthly environmental safety briefing for interns to address and clarify uranium content concerns"
+    ]
+  },
+  "sub_theme_job_openings": {
+    "positive_summary": "Rio Tinto offers diverse global job opportunities, including a Capesize Operations Manager role in Singapore and a Maintenance Scheduler position in Kitimat, BC, advertised on October 11, 2025. The company provides full-time roles with clear application processes and attracts interest due to potential investments in Western Serbia and competitive earnings in Australia.",
+    "negative_summary": "Re-advertisement of the grad mining engineer position by Rio Tinto causes frustration due to increased competition and speculation about job availability linked to partnerships. Employees feel underchallenged in current roles and seek clearer job descriptions to avoid confusion about experience requirements.",
+    "positive_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates for all global positions",
+      "Develop a relocation assistance program for employees moving to high-demand areas like Australia",
+      "Launch a targeted recruitment campaign in Western Serbia to capitalize on anticipated investments"
+    ],
+    "negative_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates to reduce candidate frustration",
+      "Create a clear job description template specifying experience requirements to minimize candidate confusion",
+      "Develop an internal mobility program to facilitate role changes for underchallenged employees"
+    ]
+  },
+  "sub_theme_labor_hire_queries": {
+    "positive_summary": "Employees appreciate the potential for earning Qantas frequent flyer points while working FIFO, similar to benefits offered by other companies like Roy Hill. There is interest in clear guidance on career pathways, such as becoming a train driver at Rio Tinto, which could attract potential applicants. Accessible information online about these benefits is currently lacking, which affects decision-making.",
+    "negative_summary": "Employees are experiencing uncertainty and difficulty securing interviews with labor hire companies, particularly for positions at BHP and Rio Tinto, despite applying for jobs. There is a significant labor shortage requiring 250,000 immigrants to address it, while BHP is reducing reliance on contractors and prioritizing local companies for short-term roles.",
+    "positive_recommendations": [
+      "Develop an online FAQ section detailing frequent flyer benefits for FIFO workers, aiming for a 50% increase in applicant inquiries within 6 months",
+      "Create a step-by-step guide for career progression opportunities, such as train driver roles, with a target to reduce applicant confusion by 30% within the first quarter",
+      "Establish a partnership with Qantas to streamline frequent flyer point accumulation for FIFO employees, aiming for a 20% increase in employee satisfaction scores related to travel benefits within a year"
+    ],
+    "negative_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates for applicants",
+      "Establish a mentorship program pairing experienced employees with new applicants to facilitate networking and experience sharing",
+      "Conduct bi-annual reviews of contractor engagement policies to ensure alignment with local hiring priorities"
+    ]
+  },
+  "sub_theme_lack_of_diversity_in_leadership": {
+    "positive_summary": "",
+    "negative_summary": "Management practices may be hindering the recruitment of skilled female employees, indicating a potential barrier to diversity in leadership roles. This suggests a systemic issue in attracting and retaining female talent in leadership positions.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Implement a targeted recruitment strategy to increase female leadership candidates by 20% within the next year",
+      "Establish a mentorship program pairing female employees with senior leaders to support career advancement",
+      "Conduct quarterly reviews of recruitment practices to identify and eliminate biases affecting female candidates"
+    ]
+  },
+  "sub_theme_leadership_accountability": {
+    "positive_summary": "Leadership accountability is highlighted by Simon Trott's appointment as CEO, leveraging his success as head of Rio Tinto's profitable iron ore unit. Emphasizing moral integrity, the introduction of 'moral cards' is suggested to ensure leaders maintain positive ethical standards.",
+    "negative_summary": "Leadership is criticized for failing to retain long-term employees, with 36 comments noting ineffective leadership and inadequate compensation compared to competitors like LNG Canada. Employees express dissatisfaction with Rio's waste management oversight and accountability, with 12 comments urging the company to bear full costs of mismanagement. Nine comments highlight a disconnect from the CEO, perceived as lacking authority and being a scapegoat for company issues.",
+    "positive_recommendations": [
+      "Introduce 'moral cards' for leadership evaluations by Q2 2024 to assess ethical standards",
+      "Conduct bi-annual leadership integrity assessments to ensure adherence to moral boundaries"
+    ],
+    "negative_recommendations": [
+      "Conduct a compensation review to align pay with industry standards, targeting a 10% reduction in employee turnover within 12 months",
+      "Implement a quarterly waste management audit to ensure compliance and accountability, aiming for zero instances of mismanagement",
+      "Establish monthly CEO town hall meetings to improve communication and visibility, increasing employee engagement scores by 15% in the next year"
+    ]
+  },
+  "sub_theme_management_transparency": {
+    "positive_summary": "",
+    "negative_summary": "Employees are frustrated with the inclusion of upper management in surveys, suggesting a disconnect between management and staff. There is also a concern over outdated regulations, with mining companies exploiting 50-year-old rules, leading to cultural losses.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Conduct bi-annual surveys excluding upper management to gauge staff sentiment accurately",
+      "Update regulatory guidelines for mining operations within the next 12 months to reflect current cultural and environmental standards"
+    ]
+  },
+  "sub_theme_mental_health_support": {
+    "positive_summary": "Emily, a Senior Advisor at Rio Tinto, enhances workplace wellbeing through initiatives like 'Wellness Wednesday', promoting psychological safety and self-care. Health coverage is extensive, accommodating serious conditions with GM approval, and initiatives like Zelda Perkins' 'Can't Buy My Silence' address NDA-related issues.",
+    "negative_summary": "Employees face unfair treatment regarding medicinal cannabis use for health issues and a lack of accountability from political representatives like Tony Bourke on NDAs affecting mental health. The introduction of autonomous robot assistants has led to increased stress and mental health concerns, with office staff feeling restricted from using necessary medications.",
+    "positive_recommendations": [
+      "Expand 'Wellness Wednesday' to additional teams and track participation increase by 20% within 6 months",
+      "Review and update NDA policies to ensure transparency, aiming for a 50% reduction in NDA-related grievances in the next year",
+      "Increase health coverage awareness sessions to quarterly, ensuring 80% employee attendance"
+    ],
+    "negative_recommendations": [
+      "Review and update health policy to ensure fair treatment of medicinal cannabis users within 60 days",
+      "Establish a direct communication channel with political representatives for employee concerns, with a 30-day response time",
+      "Conduct a mental health impact assessment of autonomous robot assistants and implement support measures within 90 days"
+    ]
+  },
+  "sub_theme_mentorship_and_support_programs": {
+    "positive_summary": "The company supports employee development through knowledgeable staff who serve as valuable learning resources and emphasizes recognition and support for emerging talent. Employees appreciate the supportive behavior of their colleagues, enhancing the overall work environment.",
+    "negative_summary": "The mentorship initiative is appreciated, but there is a significant lack of mentee representation in promotional videos, leading to concerns about inclusivity and visibility.",
+    "positive_recommendations": [
+      "Create a structured mentorship program pairing senior staff with new hires to foster knowledge transfer and support.",
+      "Establish a recognition system that highlights employee contributions quarterly, promoting a culture of appreciation and motivation."
+    ],
+    "negative_recommendations": [
+      "Increase mentee representation in promotional videos to 50% within the next quarter",
+      "Conduct quarterly surveys to assess mentee satisfaction and representation in mentorship programs"
+    ]
+  },
+  "sub_theme_merit_based_promotion": {
+    "positive_summary": "",
+    "negative_summary": "Employees perceive a lack of merit-based hiring and promotion practices within the organization, indicating a disconnect between performance and advancement opportunities.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Establish quarterly performance reviews with clear promotion criteria",
+      "Implement a transparent promotion tracking system accessible to all employees"
+    ]
+  },
+  "sub_theme_negative_morale_and_stress": {
+    "positive_summary": "The work environment now emphasizes the value of accuracy over speed, encouraging employees to focus on personal effort and satisfaction. This shift has improved the atmosphere from being previously depressing, fostering a more supportive and positive work culture.",
+    "negative_summary": "Employees face negative cultural influences and express dissatisfaction with a perceived 'Us vs. Them' mentality, akin to high school social dynamics, which they believe is perpetuated by certain individuals. There is a call for removing these negative influences to foster a more positive workplace culture.",
+    "positive_recommendations": [
+      "Implement a monthly workshop focusing on accuracy and personal development",
+      "Establish a recognition program for employees who demonstrate exceptional attention to detail",
+      "Conduct quarterly surveys to measure employee satisfaction and morale improvements"
+    ],
+    "negative_recommendations": [
+      "Conduct a cultural audit within 60 days to identify and address divisive behaviors",
+      "Implement a peer mentoring program within 3 months to bridge gaps and foster inclusivity",
+      "Schedule monthly team-building activities to promote a cohesive and positive work environment"
+    ]
+  },
+  "sub_theme_onboarding_experience": {
+    "positive_summary": "The onboarding process is praised for its efficiency, with some employees receiving job offers within two days of application and experiencing a quick initial response. Despite a lengthy onboarding period of 3.5 months due to medical and background checks, the overall experience is described as positive and well-organized.",
+    "negative_summary": "There is a significant delay of up to three months between receiving a job offer and the actual start date, accompanied by poor communication from HR. Candidates are advised against resigning from current positions due to potential onboarding timeline uncertainties.",
+    "positive_recommendations": [
+      "Implement a 30-day onboarding timeline with bi-weekly updates to reduce the current 3.5-month period",
+      "Introduce a fast-track option for candidates with complete documentation to expedite the hiring process",
+      "Establish a feedback loop with new hires to improve the onboarding process based on their experiences"
+    ],
+    "negative_recommendations": [
+      "Implement a 30-day onboarding timeline with bi-weekly status updates to candidates",
+      "Establish a dedicated HR contact for each candidate to ensure continuous communication",
+      "Develop a clear onboarding schedule shared with candidates upon job offer acceptance"
+    ]
+  },
+  "sub_theme_perceived_greed_in_compensation": {
+    "positive_summary": "",
+    "negative_summary": "Employees feel undervalued and underpaid despite the company's significant financial resources. This perception of greed in compensation is causing dissatisfaction among staff.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Conduct a compensation audit within 90 days to align salaries with industry standards",
+      "Establish a transparent bonus structure tied to company financial performance, reviewed quarterly",
+      "Implement bi-annual employee satisfaction surveys to monitor perceptions of compensation fairness"
+    ]
+  },
+  "sub_theme_perceptions_of_work_environment": {
+    "positive_summary": "Employees perceive the workplace culture positively, highlighting a supportive and engaging environment. An employee at the Daybreak office of Rio Tinto/Kennecott is actively seeking insights into the workplace culture and expectations, indicating a proactive interest in understanding and contributing to the positive environment.",
+    "negative_summary": "The company places a strong emphasis on cultural fit when evaluating employees, which may lead to concerns about transparency and inclusivity. A board member's email addressing a potential class action lawsuit highlights existing worries about transparency in decision-making processes.",
+    "positive_recommendations": [
+      "Conduct a quarterly survey to measure employee satisfaction with workplace culture, aiming for a 90% positive response rate",
+      "Develop a comprehensive onboarding program at the Daybreak office to provide new hires with clear insights into workplace culture and expectations within the first 30 days"
+    ],
+    "negative_recommendations": [
+      "Establish a transparent evaluation process with quarterly reports on diversity and inclusion metrics",
+      "Implement bi-annual cultural fit workshops to ensure alignment with company values and address employee concerns",
+      "Conduct monthly transparency meetings to openly discuss company decisions and legal matters"
+    ]
+  },
+  "sub_theme_pre_start_meetings": {
+    "positive_summary": "Pre-start meetings at smaller mining operations facilitate inter-departmental interaction and skill improvement through training, unlike larger sites where departments are siloed. These meetings foster camaraderie and informal relationship-building, enhancing workplace dynamics.",
+    "negative_summary": "Employees find pre-start meetings at Rio Tinto inefficient due to excessive focus on trivial safety acknowledgments, with tasks taking longer than the stated 15 minutes. BMA communications are perceived as self-congratulatory and lacking substance, leading to disengagement during segments like 'winning conditions' and 'safety focus'.",
+    "positive_recommendations": [
+      "Implement weekly inter-departmental pre-start meetings at larger sites to foster collaboration",
+      "Introduce a cross-departmental mentorship program to build relationships and improve skills",
+      "Conduct quarterly surveys to measure employee satisfaction with inter-departmental interactions"
+    ],
+    "negative_recommendations": [
+      "Limit pre-start meetings to 15 minutes with a focused agenda to improve efficiency",
+      "Revise BMA communications to include actionable insights and reduce self-congratulatory content",
+      "Introduce monthly feedback sessions to engage employees on meeting content relevance"
+    ]
+  },
+  "sub_theme_recognition_for_contributions": {
+    "positive_summary": "Employees are recognized for significant actions, such as being commended for life-saving contributions and receiving rewards for exceptional work. Mizael's content creation, especially his editing skills, is highly valued.",
+    "negative_summary": "Employees perceive the task of extracting iron ore as straightforward, leading to a lack of recognition for their contributions. This perception undermines the value of their work and diminishes motivation.",
+    "positive_recommendations": [
+      "Implement a quarterly recognition program for exceptional contributions with awards or bonuses",
+      "Establish a content creation excellence award to highlight outstanding skills like Mizael's editing",
+      "Create a public recognition platform to share significant employee achievements monthly"
+    ],
+    "negative_recommendations": [
+      "Introduce monthly recognition awards for exceptional performance in routine tasks to highlight their importance",
+      "Implement a feedback system where employees receive specific praise for task completion, aiming for a 90% participation rate",
+      "Conduct quarterly workshops to educate managers on the importance of recognizing routine task contributions"
+    ]
+  },
+  "sub_theme_recruitment_process": {
+    "positive_summary": "The recruitment process effectively integrates university programs to offer internships, enhancing graduates' experience and influencing hiring decisions. Clear communication and structured interview techniques like the STAR method provide candidates with valuable feedback and support, making the process easier and more instructive.",
+    "negative_summary": "The hiring process is criticized for its lengthy duration, with delays of up to six months between job offers and start dates, and a two to three-month timeframe for process completion. Candidates report a lack of transparency in role assignments and required qualifications, as well as concerns over the fairness of the process, particularly when experience requirements are unclear for graduate roles. Additionally, the psychometric and personality assessments are perceived as challenging and time-constrained, contributing to candidate frustration.",
+    "positive_recommendations": [
+      "Implement a structured mentorship program pairing senior staff with interns to enhance practical experience",
+      "Establish a 30-day feedback loop for early career applicants to provide timely and constructive insights",
+      "Conduct quarterly workshops on interview techniques, focusing on the STAR response structure"
+    ],
+    "negative_recommendations": [
+      "Implement a 30-day hiring timeline with weekly status updates to reduce delays",
+      "Provide a detailed FAQ and preparation guide for technical and psychometric assessments",
+      "Establish clear, transparent criteria for role assignments and required qualifications"
+    ]
+  },
+  "sub_theme_renewable_energy_initiatives": {
+    "positive_summary": "The Riotinto mine is integrating a photovoltaic plant with 75,000 solar panels to meet 25% of its electricity needs, showcasing a strong commitment to sustainability. Rio Tinto's Utah copper mine is well-positioned to leverage the growing EV market, producing 200,000 metric tons of copper annually with expansion potential.",
+    "negative_summary": "Employees suggest Rio Tinto should pilot renewable energy projects like wind and solar with flywheels and accumulators, and express concern over potential misuse of tax credits. There is a need for electrification of railway infrastructure and investment in a CoGen system at Strathcona Works.",
+    "positive_recommendations": [
+      "Expand solar panel installations to cover 50% of electricity needs by 2025",
+      "Initiate a feasibility study for electrifying rail lines to reduce diesel use by 30% within two years",
+      "Develop a strategic plan to increase copper production by 20% in the next three years to meet EV demand"
+    ],
+    "negative_recommendations": [
+      "Launch a pilot project for wind and solar energy with flywheels at a designated site within 12 months",
+      "Conduct an audit of tax credit usage for transparency within the next quarter",
+      "Develop a 2-year plan to electrify 50% of railway infrastructure"
+    ]
+  },
+  "sub_theme_safety_concerns": {
+    "positive_summary": "Careful attention is given to loading boats evenly to prevent structural damage, demonstrating a strong commitment to safety. Greg's commendable safety awareness is highlighted by his avoidance of walking under a suspended load. The site provides a good cafeteria for employees, contributing to a positive work environment.",
+    "negative_summary": "Employees have raised safety concerns about the operation of Frannas, highlighting a feature that restricts crane mode operation unless the boom is adequately lowered to prevent accidents. There are also reports of smoke from adjacent areas affecting the work environment and concerns about the safety of personal vehicles operating alongside dump trucks. Additionally, incidents involving haul trucks crushing work vehicles have prompted investigations by Rio Tinto.",
+    "positive_recommendations": [
+      "Conduct monthly safety training sessions focusing on load management and hazard awareness",
+      "Implement a recognition program for employees demonstrating exceptional safety practices",
+      "Enhance cafeteria services by introducing a feedback system to ensure continuous improvement"
+    ],
+    "negative_recommendations": [
+      "Install air quality monitoring systems to detect and address smoke issues, aiming for a 50% reduction in air quality complaints within six months.",
+      "Implement mandatory safety training for all vehicle operators, reducing incidents by 30% over the next year.",
+      "Conduct quarterly safety audits on equipment like Frannas to ensure compliance with operational safety features."
+    ]
+  },
+  "sub_theme_safety_culture": {
+    "positive_summary": "Employees appreciate the autonomy in personal protective equipment usage and the rare occurrence of safety incidents in buildings. The implementation of daily breathalyzer tests and random drug and alcohol testing ensures all employees are fit for work. Concerns exist over the policy banning medicinal cannabis, affecting those with legitimate medical needs.",
+    "negative_summary": "Employees express concerns about ineffective safety briefings and impractical protocols, with 146 comments highlighting desensitization and lack of on-site experience in policy design. Drug and alcohol policies are criticized for inconsistencies, with 51 comments pointing to union opposition affecting safety compliance. Concerns about driverless train technology and geographical isolation affecting shipping times are noted in 35 comments.",
+    "positive_recommendations": [
+      "Introduce monthly safety feedback sessions to address and adapt PPE usage policies based on employee input",
+      "Maintain and monitor daily breathalyzer and random drug testing logs to ensure 100% compliance",
+      "Review and potentially revise the medicinal cannabis policy with input from affected employees to balance safety and individual needs"
+    ],
+    "negative_recommendations": [
+      "Revise safety protocols with on-site employee input to reduce desensitization and increase relevance, aiming for a 30% increase in employee satisfaction with safety measures within six months.",
+      "Implement consistent alcohol and drug policy enforcement across all employee levels, with a goal of reducing safety incidents by 20% in the next year.",
+      "Conduct feasibility study on driverless train technology with stakeholder feedback to address safety concerns, completing the study within 12 months."
+    ]
+  },
+  "sub_theme_salary_expectations": {
+    "positive_summary": "Employees appreciate competitive salaries and bonuses, with some receiving up to 20% more in base salary and allowances for FIFO jobs. Salaries for J band roles at Rio range from 120k to 180k, and IS&T office-based positions in Australia offer A$115k-$130k with a 10% bonus.",
+    "negative_summary": "Employees report a $35k pay difference favoring BHP over Rio and express dissatisfaction with Rio's bonuses. A significant pay disparity exists between C-level managers and lower-level employees, with salaries ranging from 5,000 EUR to less than 1,000 EUR. Concerns are raised about the lack of transparency in salary structures, particularly for Band J positions.",
+    "positive_recommendations": [
+      "Standardize salary reviews every 12 months to ensure competitive compensation",
+      "Implement a 20% bonus structure for roles with significant travel requirements",
+      "Establish a transparent salary band disclosure for all roles to align expectations"
+    ],
+    "negative_recommendations": [
+      "Conduct a salary benchmarking study within 90 days to align compensation with industry standards and address the $35k pay gap.",
+      "Implement a transparent salary band disclosure policy for all positions within 60 days to ensure clarity in compensation structures.",
+      "Establish a bi-annual review of compensation packages to address pay disparities and improve employee retention."
+    ]
+  },
+  "sub_theme_sexual_harassment_allegations": {
+    "positive_summary": "The company enforces a strict policy against sexual harassment, including the prohibition of verbal jokes, which has been positively acknowledged. Women appreciate the support for speaking up against inappropriate workplace situations, contributing to a safer environment.",
+    "negative_summary": "There are significant concerns about sexual harassment and inappropriate behavior at worksites, with reports of physical assaults and systemic issues at companies like Rio Tinto and BHP. A class action lawsuit involving thousands of women has been filed, highlighting severe incidents and misuse of NDAs to conceal illegal activities. Additionally, there are issues of racism and bullying contributing to a toxic work environment.",
+    "positive_recommendations": [
+      "Conduct quarterly training sessions on sexual harassment policies for all employees to reinforce awareness and prevention",
+      "Implement a confidential reporting system with a 48-hour response time to address sexual harassment allegations promptly",
+      "Establish a recognition program to highlight employees who actively contribute to maintaining a respectful workplace"
+    ],
+    "negative_recommendations": [
+      "Conduct a formal investigation into harassment allegations with a report due in 90 days",
+      "Implement mandatory quarterly training on harassment prevention for all employees",
+      "Establish an anonymous reporting system with a 48-hour response time for harassment claims"
+    ]
+  },
+  "sub_theme_share_matching_concerns": {
+    "positive_summary": "Rio offers a share matching program for employees, providing a tangible financial benefit. Additionally, the company subsidizes health insurance for employees and their families, enhancing their overall compensation package.",
+    "negative_summary": "Rio Tinto's share matching program delays full access to shares over a 6-year period, causing dissatisfaction compared to BHP's 3-year release period. Employees are concerned about the extended timeframe for accessing matched shares.",
+    "positive_recommendations": [
+      "Expand share matching program to include part-time employees within 6 months",
+      "Increase health insurance subsidy by 10% within the next fiscal year"
+    ],
+    "negative_recommendations": [
+      "Reduce Rio Tinto's share matching period from 6 years to 3 years to align with industry standards",
+      "Implement a phased access program allowing partial access to shares annually"
+    ]
+  },
+  "sub_theme_team_dynamics_and_collaboration": {
+    "positive_summary": "Employees value the strong teamwork and professional boundaries among colleagues, with specific appreciation for safety stretches included in pre-start meetings. There is a desire for more informal recognition, such as physical gestures, to boost morale and encourage colleagues to relax and perform well in upcoming tasks.",
+    "negative_summary": "Employees express uncertainty and concern about the unpredictability of team assignments, which affects their ability to plan and execute tasks effectively.",
+    "positive_recommendations": [
+      "Introduce a monthly informal recognition program encouraging colleagues to acknowledge each other's contributions with gestures like thank-you notes or small tokens.",
+      "Incorporate a 5-minute safety stretch routine in all pre-start meetings to maintain its positive impact on team dynamics.",
+      "Set up a quarterly feedback session where colleagues can share encouragement and support for each other's professional growth."
+    ],
+    "negative_recommendations": [
+      "Establish a clear team assignment schedule with at least two weeks' notice for changes",
+      "Conduct monthly team meetings to discuss upcoming projects and address assignment concerns"
+    ]
+  },
+  "sub_theme_toxic_work_environment": {
+    "positive_summary": "",
+    "negative_summary": "Leadership toxicity is perceived to originate from higher management levels at BHP and Rio Tinto, with a lack of accountability and transparency. Employees suggest that reducing team sizes by 70% could improve efficiency and resolve existing issues.",
+    "positive_recommendations": [],
+    "negative_recommendations": [
+      "Conduct confidential interviews with non-management staff within 60 days to identify and address leadership issues",
+      "Reduce team sizes by 70% over the next quarter to enhance operational efficiency",
+      "Implement a transparent promotion process with clear criteria and quarterly reviews"
+    ]
+  },
+  "sub_theme_work_life_balance": {
+    "positive_summary": "Employees appreciate rotational equal time off jobs, such as 3 days/3 evenings with a 16-hour transition and 4 days off, for better work-life balance compared to traditional roles. They value the flexibility to enjoy life now and recognize the financial benefits of roles like FIFO, which offer about 30% higher pay than city-based positions.",
+    "negative_summary": "Employees are dissatisfied with the calculation of off days, which misleadingly includes both scheduled off days and sick leave, totaling 20 days. The transition to AutoHaul technology and limited traditional train driving opportunities have led to decreased job satisfaction and retirement decisions. Employees in FIFO arrangements express a preference for shorter durations, suggesting a three-month timeframe for specific tasks.",
+    "positive_recommendations": [
+      "Implement flexible shift schedules with at least 4 consecutive days off to enhance work-life balance.",
+      "Introduce a health monitoring program to address potential health risks from work-related fumes.",
+      "Increase awareness of financial benefits in FIFO roles to attract more candidates."
+    ],
+    "negative_recommendations": [
+      "Recalculate off days to separate scheduled leave and sick leave, aiming for clarity and accuracy in leave policies.",
+      "Offer traditional train driving opportunities at least once a month to maintain job satisfaction among train operators.",
+      "Implement a three-month rotation schedule for FIFO employees to align with their preferred work-life balance."
+    ]
+  },
+  "sub_theme_workplace_culture": {
+    "positive_summary": "Employees express appreciation for a positive work environment, highlighting achievements like shipping over 75 million tonnes at the Pilbara mine and enjoying the FIFO work arrangement. There is a fond recollection of past camaraderie and efficient transportation options with frequent train departures at Greater Brockman.",
+    "negative_summary": "Employees report over-management and insufficient staffing, leading to unmet task demands, and express concerns about overwhelming information and subpar office facilities potentially affecting retention. Automation in the rail sector threatens job security, while unclear scheduling and JIT inventory issues disrupt operations. Rio Tinto's failure to fulfill land restoration commitments and perceived operational issues further contribute to dissatisfaction.",
+    "positive_recommendations": [
+      "Implement a structured mentorship program pairing senior employees with new hires to foster camaraderie and knowledge transfer",
+      "Establish a recognition system for operational achievements, such as significant shipping milestones, to reinforce positive work culture",
+      "Increase the frequency of train departures to every 30 minutes at key sites to further enhance accessibility and operational efficiency"
+    ],
+    "negative_recommendations": [
+      "Conduct a staffing analysis to ensure adequate workforce levels for task completion, aiming to reduce task backlog by 20% within six months.",
+      "Implement a quarterly review of office facilities and address top three concerns to improve employee satisfaction and retention.",
+      "Establish clear communication protocols for shift transitions and inventory management to reduce operational disruptions by 30% within three months."
+    ]
+  },
+  "sub_theme_workplace_diversity_and_inclusion": {
+    "positive_summary": "The organization demonstrates a likely presence of gender equality, contributing to a positive and cohesive work environment. Employees perceive a balanced gender ratio, particularly noted at sites in Australia, fostering inclusivity.",
+    "negative_summary": "Employees express concerns about the lack of transparency in the demographics of the graduate cohort, particularly regarding the male to female ratio. There is a perceived bias in hiring practices, with a focus on recruiting Australians, which overlooks diverse backgrounds such as European immigrants.",
+    "positive_recommendations": [
+      "Establish a quarterly review of gender ratio at all sites to maintain balance",
+      "Implement a bi-annual survey to assess employee perceptions of diversity and inclusion",
+      "Develop a mentorship program focusing on gender diversity, pairing senior leaders with diverse junior employees"
+    ],
+    "negative_recommendations": [
+      "Publish annual diversity reports detailing gender and nationality ratios in hiring",
+      "Implement a blind recruitment process to minimize bias in candidate selection",
+      "Establish diversity training for hiring managers to recognize and value diverse backgrounds"
+    ]
+  },
+  "sub_theme_workplace_harassment": {
+    "positive_summary": "The workplace enforces strict policies against harassment and hate speech, ensuring a safe environment by prohibiting content that incites violence or promotes hatred. A strong record of preventing harassment incidents is maintained, with HR effectively fostering a positive environment. The community upholds respectful discussions by banning trolling and personal attacks, ensuring interactions remain meaningful.",
+    "negative_summary": "In the workplace, there is a high frequency of harassment incidents, with 1.14 incidents reported per day, particularly among FIFO workers. Concerns include inappropriate behavior towards female employees, with outdated gender attitudes and backlash against diversity initiatives. Systemic bullying is prevalent, with 50% of Rio Tinto employees experiencing it over five years, leading to reputational damage and employee departures.",
+    "positive_recommendations": [
+      "Conduct quarterly audits of harassment policies to ensure effectiveness and compliance.",
+      "Implement monthly training sessions on respectful communication to reinforce community standards.",
+      "Establish a dedicated hotline for reporting harassment incidents, aiming for a 24-hour response time."
+    ],
+    "negative_recommendations": [
+      "Implement a zero-tolerance harassment policy with mandatory quarterly training for all employees",
+      "Establish a confidential reporting system with a 72-hour response time for all harassment claims",
+      "Conduct bi-annual diversity and inclusion audits with specific targets for gender balance improvements"
+    ]
+  }
+}

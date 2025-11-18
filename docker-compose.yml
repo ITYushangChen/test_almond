@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  # Flask Backend (connects to Supabase)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: corporate_culture_backend
+    env_file:
+      - ./backend/.env
+    environment:
+      FLASK_APP: app.py
+      FLASK_ENV: development
+    ports:
+      - "5050:5000"
+    volumes:
+      - ./backend:/app
+    command: python app.py
+
+  # React Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: corporate_culture_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend/src:/app/src
+      - ./frontend/public:/app/public
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    stdin_open: true
+    tty: true
+
