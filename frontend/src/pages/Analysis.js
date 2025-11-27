@@ -369,10 +369,10 @@ function Analysis() {
                   <div className="risk-overview card">
                     <div className="overview-left">
                       <div className="metric-box">
-                        <div className="metric-label">Number of responses</div>
+                        <div className="metric-label">Number of posts & comments</div>
                         <div className="metric-value metric-purple">{riskyThemesData.total_responses}</div>
                       </div>
-                      <div className="metric-box">
+                      {/* <div className="metric-box">
                         <div className="metric-label">Overall risk rating</div>
                         <div className="metric-value metric-high">
                           {riskyThemesData.risk_level} ({riskyThemesData.overall_risk_rating} / 100)
@@ -380,157 +380,15 @@ function Analysis() {
                         <div className="metric-note">
                           This risk rating is calculated by assessing the cumulative risk of multiple psychosocial hazards.
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
 
-                  {/* Main Content: Top 10 Risky Themes */}
+                  {/* Main Content: Top 10 Positive Themes First, Then Negative Themes */}
                   <div className="risk-main-content">
-                    <div className="risky-themes-list card">
-                      <h3>Top 10 hazards</h3>
-                      <div className="themes-header">
-                        <span className="header-hazards">
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-                            Hazards
-                            <span
-                              className="column-info-icon"
-                              onMouseEnter={() => setHoveredColumn('theme')}
-                              onMouseLeave={() => setHoveredColumn(null)}
-                            >
-                              ℹ️
-                            </span>
-                            {hoveredColumn === 'theme' && (
-                              <div className="column-info-tooltip">
-                                <p>{analysisColumnDescriptions.theme.description}</p>
-                                <p className="calculation">{analysisColumnDescriptions.theme.calculation}</p>
-                              </div>
-                            )}
-                          </span>
-                        </span>
-                        <span className="header-rating">
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-                            Overall rating (n = {riskyThemesData.total_responses})
-                            <span
-                              className="column-info-icon"
-                              onMouseEnter={() => setHoveredColumn('risk_score')}
-                              onMouseLeave={() => setHoveredColumn(null)}
-                            >
-                              ℹ️
-                            </span>
-                            {hoveredColumn === 'risk_score' && (
-                              <div className="column-info-tooltip">
-                                <p>{analysisColumnDescriptions.risk_score.description}</p>
-                                <p className="calculation">{analysisColumnDescriptions.risk_score.calculation}</p>
-                              </div>
-                            )}
-                          </span>
-                        </span>
-                        <span className="header-comments">
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-                            Total Comments
-                            <span
-                              className="column-info-icon"
-                              onMouseEnter={() => setHoveredColumn('total_comments')}
-                              onMouseLeave={() => setHoveredColumn(null)}
-                            >
-                              ℹ️
-                            </span>
-                            {hoveredColumn === 'total_comments' && (
-                              <div className="column-info-tooltip">
-                                <p>{analysisColumnDescriptions.total_comments.description}</p>
-                                <p className="calculation">{analysisColumnDescriptions.total_comments.calculation}</p>
-                              </div>
-                            )}
-                          </span>
-                        </span>
-                        <span className="header-enps">
-                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
-                            eNPS
-                            <span
-                              className="column-info-icon"
-                              onMouseEnter={() => setHoveredColumn('enps')}
-                              onMouseLeave={() => setHoveredColumn(null)}
-                            >
-                              ℹ️
-                            </span>
-                            {hoveredColumn === 'enps' && (
-                              <div className="column-info-tooltip">
-                                <p>{analysisColumnDescriptions.enps.description}</p>
-                                <p className="calculation">{analysisColumnDescriptions.enps.calculation}</p>
-                              </div>
-                            )}
-                          </span>
-                        </span>
-                      </div>
-                      <div className="themes-list">
-                        {riskyThemesData.risky_themes.map((theme, index) => {
-                          const riskColor = getRiskColor(theme.risk_score);
-                          const commentsChangeColor = theme.comments_yoy_change >= 0 ? chartColors.negative : chartColors.positive;
-                          const enpsChangeColor = theme.enps_yoy_change >= 0 ? chartColors.positive : chartColors.negative;
-                          return (
-                            <div key={index} className="theme-item">
-                              <div className="theme-name">
-                                {theme.sub_theme}
-                                <span
-                                  className="theme-insight-icon"
-                                  onClick={(e) => handleThemeInsightClick('sub_theme', theme.sub_theme, e)}
-                                  role="button"
-                                  aria-label={`View insights for ${theme.sub_theme}`}
-                                >
-                                  💡
-                                </span>
-                              </div>
-                              <div className="theme-rating-container">
-                                <div className="theme-rating-bar-container">
-                                  <div 
-                                    className="theme-rating-bar"
-                                    style={{
-                                      width: `${theme.risk_score}%`,
-                                      backgroundColor: riskColor
-                                    }}
-                                  />
-                                </div>
-                                <span className="theme-rating-value">{theme.risk_score}</span>
-                              </div>
-                              <div className="theme-comments">
-                                <span className="metric-value-number">{theme.total_count}</span>
-                                <span 
-                                  className="yoy-change"
-                                  style={{ color: commentsChangeColor }}
-                                >
-                                  {theme.comments_yoy_change >= 0 ? '↑' : '↓'} {Math.abs(theme.comments_yoy_change)}%
-                                </span>
-                              </div>
-                              <div className="theme-enps">
-                                <span className="metric-value-number">{theme.enps}%</span>
-                                <span 
-                                  className="yoy-change"
-                                  style={{ color: enpsChangeColor }}
-                                >
-                                  {theme.enps_yoy_change >= 0 ? '↑' : '↓'} {Math.abs(theme.enps_yoy_change)}%
-                                </span>
-                              </div>
-                            </div>
-                          );
-                        })}
-                      </div>
-                      <div className="risk-legend">
-                        <div className="legend-title">Score Ranges:</div>
-                        <div className="legend-items">
-                          <span>Very Low: &lt;5</span>
-                          <span>Low: 5-19</span>
-                          <span>Low-moderate: 20-24</span>
-                          <span>Moderate: 25-34</span>
-                          <span>Moderate-high: 35-39</span>
-                          <span>High: 40-50</span>
-                          <span>Very high: &gt;50</span>
-                        </div>
-                      </div>
-                    </div>
-
                     {/* Top 10 Positive Themes */}
                     {positiveThemesData && (
-                      <div className="risky-themes-list card" style={{ marginTop: '2rem' }}>
+                      <div className="risky-themes-list card">
                         <h3>Top 10 positive themes</h3>
                         <div className="themes-header">
                           <span className="header-hazards">
@@ -673,6 +531,149 @@ function Analysis() {
                         </div>
                       </div>
                     )}
+
+                    {/* Top 10 Negative Themes (Hazards) */}
+                    <div className="risky-themes-list card" style={{ marginTop: positiveThemesData ? '2rem' : '0' }}>
+                      <h3>Top 10 negative themes</h3>
+                      <div className="themes-header">
+                        <span className="header-hazards">
+                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                            Themes
+                            <span
+                              className="column-info-icon"
+                              onMouseEnter={() => setHoveredColumn('theme')}
+                              onMouseLeave={() => setHoveredColumn(null)}
+                            >
+                              ℹ️
+                            </span>
+                            {hoveredColumn === 'theme' && (
+                              <div className="column-info-tooltip">
+                                <p>{analysisColumnDescriptions.theme.description}</p>
+                                <p className="calculation">{analysisColumnDescriptions.theme.calculation}</p>
+                              </div>
+                            )}
+                          </span>
+                        </span>
+                        <span className="header-rating">
+                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                            Overall rating (n = {riskyThemesData.total_responses})
+                            <span
+                              className="column-info-icon"
+                              onMouseEnter={() => setHoveredColumn('risk_score')}
+                              onMouseLeave={() => setHoveredColumn(null)}
+                            >
+                              ℹ️
+                            </span>
+                            {hoveredColumn === 'risk_score' && (
+                              <div className="column-info-tooltip">
+                                <p>{analysisColumnDescriptions.risk_score.description}</p>
+                                <p className="calculation">{analysisColumnDescriptions.risk_score.calculation}</p>
+                              </div>
+                            )}
+                          </span>
+                        </span>
+                        <span className="header-comments">
+                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                            Total Comments
+                            <span
+                              className="column-info-icon"
+                              onMouseEnter={() => setHoveredColumn('total_comments')}
+                              onMouseLeave={() => setHoveredColumn(null)}
+                            >
+                              ℹ️
+                            </span>
+                            {hoveredColumn === 'total_comments' && (
+                              <div className="column-info-tooltip">
+                                <p>{analysisColumnDescriptions.total_comments.description}</p>
+                                <p className="calculation">{analysisColumnDescriptions.total_comments.calculation}</p>
+                              </div>
+                            )}
+                          </span>
+                        </span>
+                        <span className="header-enps">
+                          <span style={{ display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
+                            eNPS
+                            <span
+                              className="column-info-icon"
+                              onMouseEnter={() => setHoveredColumn('enps')}
+                              onMouseLeave={() => setHoveredColumn(null)}
+                            >
+                              ℹ️
+                            </span>
+                            {hoveredColumn === 'enps' && (
+                              <div className="column-info-tooltip">
+                                <p>{analysisColumnDescriptions.enps.description}</p>
+                                <p className="calculation">{analysisColumnDescriptions.enps.calculation}</p>
+                              </div>
+                            )}
+                          </span>
+                        </span>
+                      </div>
+                      <div className="themes-list">
+                        {riskyThemesData.risky_themes.map((theme, index) => {
+                          const riskColor = getRiskColor(theme.risk_score);
+                          const commentsChangeColor = theme.comments_yoy_change >= 0 ? chartColors.negative : chartColors.positive;
+                          const enpsChangeColor = theme.enps_yoy_change >= 0 ? chartColors.positive : chartColors.negative;
+                          return (
+                            <div key={index} className="theme-item">
+                              <div className="theme-name">
+                                {theme.sub_theme}
+                                <span
+                                  className="theme-insight-icon"
+                                  onClick={(e) => handleThemeInsightClick('sub_theme', theme.sub_theme, e)}
+                                  role="button"
+                                  aria-label={`View insights for ${theme.sub_theme}`}
+                                >
+                                  💡
+                                </span>
+                              </div>
+                              <div className="theme-rating-container">
+                                <div className="theme-rating-bar-container">
+                                  <div 
+                                    className="theme-rating-bar"
+                                    style={{
+                                      width: `${theme.risk_score}%`,
+                                      backgroundColor: riskColor
+                                    }}
+                                  />
+                                </div>
+                                <span className="theme-rating-value">{theme.risk_score}</span>
+                              </div>
+                              <div className="theme-comments">
+                                <span className="metric-value-number">{theme.total_count}</span>
+                                <span 
+                                  className="yoy-change"
+                                  style={{ color: commentsChangeColor }}
+                                >
+                                  {theme.comments_yoy_change >= 0 ? '↑' : '↓'} {Math.abs(theme.comments_yoy_change)}%
+                                </span>
+                              </div>
+                              <div className="theme-enps">
+                                <span className="metric-value-number">{theme.enps}%</span>
+                                <span 
+                                  className="yoy-change"
+                                  style={{ color: enpsChangeColor }}
+                                >
+                                  {theme.enps_yoy_change >= 0 ? '↑' : '↓'} {Math.abs(theme.enps_yoy_change)}%
+                                </span>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                      <div className="risk-legend">
+                        <div className="legend-title">Score Ranges:</div>
+                        <div className="legend-items">
+                          <span>Very Low: &lt;5</span>
+                          <span>Low: 5-19</span>
+                          <span>Low-moderate: 20-24</span>
+                          <span>Moderate: 25-34</span>
+                          <span>Moderate-high: 35-39</span>
+                          <span>High: 40-50</span>
+                          <span>Very high: &gt;50</span>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               )}
@@ -958,7 +959,7 @@ function Analysis() {
                 <div>
                   {themeInsights[activeTheme].positive_summary && (
                     <div className="insight-section positive">
-                      <h4>✅ Positive Summary</h4>
+                      <h4>✅ Strengths</h4>
                       <p>{themeInsights[activeTheme].positive_summary}</p>
                       {themeInsights[activeTheme].positive_recommendations?.length > 0 && (
                         <ul>
@@ -971,7 +972,7 @@ function Analysis() {
                   )}
                   {themeInsights[activeTheme].negative_summary && (
                     <div className="insight-section negative">
-                      <h4>⚠️ Negative Summary</h4>
+                      <h4>⚠️ Opportunities</h4>
                       <p>{themeInsights[activeTheme].negative_summary}</p>
                       {themeInsights[activeTheme].negative_recommendations?.length > 0 && (
                         <ul>

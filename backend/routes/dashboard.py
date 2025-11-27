@@ -59,13 +59,7 @@ def get_kpis():
             positive_comments += 1
         elif sentiment == 'negative':
             negative_comments += 1
-        else:
-            # Fallback to likes-based calculation when sentiment is null
-            likes = d.get('likes', 0)
-            if likes > 5:
-                positive_comments += 1
-            elif likes < -5:
-                negative_comments += 1
+        # Note: neutral and null sentiments are not counted as positive or negative
     
     # Theme distribution
     theme_counts = {}

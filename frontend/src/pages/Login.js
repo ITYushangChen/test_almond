@@ -47,7 +47,7 @@ function Login() {
     <div className="login-container">
       <div className="login-card">
         <div className="login-header">
-          <h1>Corporate Culture Monitor</h1>
+          <h1>AI Corporate Culture Monitor</h1>
           <p>{isLogin ? 'Sign in to your account' : 'Create a new account'}</p>
         </div>
         <form onSubmit={handleSubmit} className="login-form">

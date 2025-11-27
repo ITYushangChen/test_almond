@@ -722,7 +722,7 @@ function Dashboard() {
                 <div>
                   {themeInsights[activeTheme].positive_summary && (
                     <div className="insight-section positive">
-                      <h4>✅ Positive Summary</h4>
+                      <h4>✅ Strengths</h4>
                       <p>{themeInsights[activeTheme].positive_summary}</p>
                       {themeInsights[activeTheme].positive_recommendations?.length > 0 && (
                         <ul>
@@ -735,7 +735,7 @@ function Dashboard() {
                   )}
                   {themeInsights[activeTheme].negative_summary && (
                     <div className="insight-section negative">
-                      <h4>⚠️ Negative Summary</h4>
+                      <h4>⚠️ Opportunities</h4>
                       <p>{themeInsights[activeTheme].negative_summary}</p>
                       {themeInsights[activeTheme].negative_recommendations?.length > 0 && (
                         <ul>

@@ -53,13 +53,7 @@ def get_radar_data():
                 # Check sentiment for this specific item
                 sentiment = item.get('sentiment')
                 if sentiment == 'positive':
-                    # Use actual sentiment if available
                     theme_data[theme]['positive'] += 1
-                else:
-                    # Fallback to likes-based (likes > 5 as positive proxy)
-                    likes = item.get('likes', 0)
-                    if likes > 5:
-                        theme_data[theme]['positive'] += 1
         
         # Calculate metric
         result = {}
@@ -200,13 +194,7 @@ def get_year_data():
                 # Check sentiment for this specific item
                 sentiment = item.get('sentiment')
                 if sentiment == 'positive':
-                    # Use actual sentiment if available
                     theme_data[theme]['positive'] += 1
-                else:
-                    # Fallback to likes-based (likes > 5 as positive proxy)
-                    likes = item.get('likes', 0)
-                    if likes > 5:
-                        theme_data[theme]['positive'] += 1
         
         # Calculate metric
         result = {}

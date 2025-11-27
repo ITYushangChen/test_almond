@@ -20,7 +20,7 @@ def create_app():
     # Initialize Supabase client
     with app.app_context():
         supabase = init_supabase(app)
-        print(f"✓ Connected to Supabase: {app.config['SUPABASE_URL']}")
+        print(f"Connected to Supabase: {app.config['SUPABASE_URL']}")
     
     # Register blueprints
     app.register_blueprint(auth_bp, url_prefix='/api/auth')

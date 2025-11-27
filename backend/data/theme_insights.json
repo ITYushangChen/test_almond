@@ -344,17 +344,17 @@
     ]
   },
   "sub_theme_graduate_programs": {
-    "positive_summary": "The Rio Tinto Graduate Program in Engineering, located in Invercargill, Southland, NZ, is actively recruiting, with a job posting dated October 31, 2025. The ATAL program, co-designed with Traditional Owner groups, is successfully equipping Aboriginal participants in Pilbara with sustainable employment skills. Employees highlight the program's helpfulness and enjoyment as key benefits.",
-    "negative_summary": "The 2024 traineeship program's initial assessment involves a personality test that may not align with candidate expectations, and the lower salary compared to competitors like Rio Tinto is a concern. Additionally, the current drug policy may deter socially conscious graduates, and there is a perception that experience at large organizations could limit future job opportunities.",
+    "positive_summary": "Applicants highlight that the Rio Tinto Graduate Program is well-structured, offers strong support—especially within the iron ore stream—and provides clear development pathways. Many note that the program gives valuable industry exposure, competitive pay, and a good starting point for building a long-term mining career",
+    "negative_summary": "Candidates express concern about the high level of competition, with many roles effectively requiring prior vacation work or industry experience despite being labeled ‘graduate’. Several feel the expectations are unclear or unrealistic and wish Rio Tinto would communicate requirements more transparently. Some also comment on bureaucratic culture and slow recruitment processes compared with smaller companies.",
     "positive_recommendations": [
-      "Develop an informational webinar series for potential applicants to provide insights into program structure and benefits, targeting a 25% increase in applications.",
-      "Establish a mentorship program pairing current participants with alumni to enhance program helpfulness and enjoyment, aiming for a 90% satisfaction rate among new graduates.",
-      "Implement a feedback loop with Traditional Owner groups to continuously refine the ATAL program, ensuring a 10% increase in participant employment rates year-over-year."
+      "Launch an informational webinar series explaining program expectations, recruitment timelines, and differences between streams (e.g., Iron Ore vs ex-Iron Ore) to improve transparency and applicant preparedness.",
+      "Introduce a formal mentorship program connecting current graduates with incoming candidates to strengthen support and increase program satisfaction.",
+      "Create a graduate community platform for peer support, knowledge sharing, and cross-site networking to enhance engagement and retention."
     ],
     "negative_recommendations": [
-      "Revise the initial assessment process to include clear expectations and feedback within 2 weeks of completion",
-      "Conduct a salary benchmarking study to ensure competitive compensation packages by Q2 2024",
-      "Review and potentially update the drug policy to align with modern social standards by Q1 2024"
+      "Publish clear experience expectations for all graduate roles—such as required vacation work or FIFO experience—to reduce applicant confusion and improve transparency.",
+      "Provide a defined recruitment timeline with status updates at each stage to address uncertainty expressed by candidates.",
+      "Review internal rotation and development structures to ensure graduates receive meaningful project exposure rather than overly bureaucratic tasks."
     ]
   },
   "sub_theme_indigenous_community_engagement": {
@@ -410,17 +410,17 @@
     ]
   },
   "sub_theme_job_openings": {
-    "positive_summary": "Rio Tinto offers diverse global job opportunities, including a Capesize Operations Manager role in Singapore and a Maintenance Scheduler position in Kitimat, BC, advertised on October 11, 2025. The company provides full-time roles with clear application processes and attracts interest due to potential investments in Western Serbia and competitive earnings in Australia.",
-    "negative_summary": "Re-advertisement of the grad mining engineer position by Rio Tinto causes frustration due to increased competition and speculation about job availability linked to partnerships. Employees feel underchallenged in current roles and seek clearer job descriptions to avoid confusion about experience requirements.",
+    "positive_summary": "Rio Tinto continues to generate strong global interest due to its wide range of job opportunities across Australia, Singapore, Canada, and New Zealand, covering roles from entry-level to senior leadership. Many posts highlight competitive pay, clear career pathways, flexible working arrangements, and high-quality benefits such as relocation packages, FIFO rosters, and internal development programs. The company is also recognized for its diversity, safety culture, and inclusive hiring practices, which attract both local and international candidates seeking long-term career growth.",
+    "negative_summary": "Despite strong interest, many candidates express frustration over intense competition, repeated job postings, and uncertainty about actual vacancy availability. Some commenters note that entry-level applicants without mining experience face significant barriers, while others raise concerns about remote locations, demanding FIFO schedules, and the impact of automation on future job security. There are also perceptions of opaque recruiting processes, reliance on third-party recruiters, and diversity-based hiring expectations that some believe disadvantage certain applicant groups.",
     "positive_recommendations": [
-      "Implement a 30-day hiring timeline with weekly status updates for all global positions",
-      "Develop a relocation assistance program for employees moving to high-demand areas like Australia",
-      "Launch a targeted recruitment campaign in Western Serbia to capitalize on anticipated investments"
+      "Expand global recruitment outreach to attract candidates interested in mining, logistics, finance, and technical roles across Australia, Singapore, and Canada",
+      "Promote success stories and career pathways within Rio Tinto to reinforce perceptions of long-term career growth and strong compensation",
+      "Highlight inclusive hiring practices and flexible working arrangements to appeal to international and diverse applicants"
     ],
     "negative_recommendations": [
-      "Implement a 30-day hiring timeline with weekly status updates to reduce candidate frustration",
-      "Create a clear job description template specifying experience requirements to minimize candidate confusion",
-      "Develop an internal mobility program to facilitate role changes for underchallenged employees"
+      "Improve transparency around job reposting and clearly indicate whether reposts reflect additional openings or extended hiring cycles",
+      "Clarify experience and qualification requirements for both entry-level and specialist roles to reduce applicant confusion",
+      "Provide realistic information about remote-site living conditions, FIFO expectations, and career progression to address concerns from international applicants"
     ]
   },
   "sub_theme_labor_hire_queries": {
@@ -519,8 +519,8 @@
     ]
   },
   "sub_theme_onboarding_experience": {
-    "positive_summary": "The onboarding process is praised for its efficiency, with some employees receiving job offers within two days of application and experiencing a quick initial response. Despite a lengthy onboarding period of 3.5 months due to medical and background checks, the overall experience is described as positive and well-organized.",
-    "negative_summary": "There is a significant delay of up to three months between receiving a job offer and the actual start date, accompanied by poor communication from HR. Candidates are advised against resigning from current positions due to potential onboarding timeline uncertainties.",
+    "positive_summary": "The onboarding process is praised for its efficiency, with some employees receiving quick responses. Despite a lengthy onboarding period due to medical and background checks, the overall experience is described as positive and well-organized.",
+    "negative_summary": "There is a significant delay between receiving a job offer and the actual start date, accompanied by poor communication from HR. Candidates are advised against resigning from current positions due to potential onboarding timeline uncertainties.",
     "positive_recommendations": [
       "Implement a 30-day onboarding timeline with bi-weekly updates to reduce the current 3.5-month period",
       "Introduce a fast-track option for candidates with complete documentation to expedite the hiring process",
@@ -744,17 +744,17 @@
       "Establish diversity training for hiring managers to recognize and value diverse backgrounds"
     ]
   },
-  "sub_theme_workplace_harassment": {
-    "positive_summary": "The workplace enforces strict policies against harassment and hate speech, ensuring a safe environment by prohibiting content that incites violence or promotes hatred. A strong record of preventing harassment incidents is maintained, with HR effectively fostering a positive environment. The community upholds respectful discussions by banning trolling and personal attacks, ensuring interactions remain meaningful.",
-    "negative_summary": "In the workplace, there is a high frequency of harassment incidents, with 1.14 incidents reported per day, particularly among FIFO workers. Concerns include inappropriate behavior towards female employees, with outdated gender attitudes and backlash against diversity initiatives. Systemic bullying is prevalent, with 50% of Rio Tinto employees experiencing it over five years, leading to reputational damage and employee departures.",
+  "sub_theme_workplace_behaviours": {
+    "positive_summary": "The workplace enforces policies to promote respectful behavior and maintain a safe environment. A strong record of preventing incidents is maintained, with HR effectively fostering a positive environment. The community upholds respectful discussions and ensures interactions remain meaningful.",
+    "negative_summary": "In the workplace, there are concerns about behavioral incidents, particularly among FIFO workers. Some employees report experiencing inappropriate behavior, with challenges around gender attitudes and diversity initiatives. There are opportunities to improve workplace conduct, with some employees reporting negative experiences over time, which may impact employee satisfaction and retention.",
     "positive_recommendations": [
-      "Conduct quarterly audits of harassment policies to ensure effectiveness and compliance.",
+      "Conduct quarterly audits of workplace behavior policies to ensure effectiveness and compliance.",
       "Implement monthly training sessions on respectful communication to reinforce community standards.",
-      "Establish a dedicated hotline for reporting harassment incidents, aiming for a 24-hour response time."
+      "Establish a dedicated channel for reporting behavioral concerns, aiming for a 24-hour response time."
     ],
     "negative_recommendations": [
-      "Implement a zero-tolerance harassment policy with mandatory quarterly training for all employees",
-      "Establish a confidential reporting system with a 72-hour response time for all harassment claims",
+      "Implement clear workplace behavior policies with mandatory quarterly training for all employees",
+      "Establish a confidential reporting system with a 72-hour response time for all behavioral concerns",
       "Conduct bi-annual diversity and inclusion audits with specific targets for gender balance improvements"
     ]
   }

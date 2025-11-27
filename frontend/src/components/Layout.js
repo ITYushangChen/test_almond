@@ -16,7 +16,7 @@ function Layout() {
         <div className="nav-container">
           <div className="nav-brand">
             <div className="logo-container">
-              <h1>Corporate Culture Monitor</h1>
+              <h1>AI Corporate Culture Monitor</h1>
             </div>
           </div>
           <div className="nav-links">

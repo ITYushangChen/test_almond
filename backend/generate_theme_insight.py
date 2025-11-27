@@ -164,13 +164,7 @@ def get_theme_content(theme_type: str, theme_name: str) -> Tuple[List[str], List
 
         is_positive = sentiment == 'positive'
         is_negative = sentiment == 'negative'
-
-        if not is_positive and not is_negative:
-            # Fallback heuristic based on likes (can be tuned)
-            if likes > 5:
-                is_positive = True
-            elif likes < -5:
-                is_negative = True
+        # Note: Only use explicit sentiment labels, no likes-based fallback
 
         if is_positive:
             pos.append(content)
@@ -225,7 +219,7 @@ def summarize_comments(
 Focus on concrete issues, situations, or positive aspects. Avoid generic phrases.
 
 Feedback:
-\"\"\"{text[:1000]}\"\"\"
+\"\"\"{text}\"\"\"
 
 Output format:
 - bullet point 1
@@ -250,7 +244,7 @@ Output format:
                 lines = [f"- {text[:150]}"]
             summaries.extend(lines)
         except Exception as e:
-            print(f"      ⚠️ Summary error on comment {idx}: {e}")
+            print(f"      Warning: Summary error on comment {idx}: {e}")
             # Fallback: rough truncation
             summaries.append(f"- {text[:150]}")
 
@@ -322,7 +316,7 @@ def cluster_summaries(
         km = KMeans(n_clusters=k, random_state=42, n_init="auto")
         labels = km.fit_predict(embeddings)
     except Exception as e:
-        print(f"      ⚠️ KMeans failed ({e}), falling back to single cluster")
+        print(f"      Warning: KMeans failed ({e}), falling back to single cluster")
         return [{
             "cluster_id": 0,
             "size": n,
@@ -454,7 +448,7 @@ Output JSON in this exact format:
             "recommendations": [],
         }
     except Exception as e:
-        print(f"    ⚠️ Insight generation error for {theme_type} {theme_name} ({sentiment_label}): {e}")
+        print(f"    Warning: Insight generation error for {theme_type} {theme_name} ({sentiment_label}): {e}")
         return {
             "summary": "",
             "recommendations": [],
@@ -622,7 +616,7 @@ Examples:
             print(f"  Found {len(pos)} positive and {len(neg)} negative comments")
             insights = generate_insights_for_theme(theme_type, theme_name, pos, neg, client)
             all_insights[f"{theme_type}_{theme_name}"] = insights
-            print(f"  ✓ Done.")
+            print(f"  Done.")
             
             # Print preview of results
             print(f"\n  Preview:")
@@ -635,7 +629,7 @@ Examples:
             if insights.get("negative_recommendations"):
                 print(f"    Recommendations: {insights['negative_recommendations']}")
         except Exception as e:
-            print(f"  ✗ Error on {theme_name}: {e}")
+            print(f"  Error on {theme_name}: {e}")
             import traceback
             traceback.print_exc()
 
@@ -648,8 +642,8 @@ Examples:
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(all_insights, f, indent=2, ensure_ascii=False)
 
-    print(f"✓ Successfully generated advanced insights for {len(all_insights)} themes")
-    print(f"✓ Saved to {out_path}")
+    print(f"Successfully generated advanced insights for {len(all_insights)} themes")
+    print(f"Saved to {out_path}")
 
 if __name__ == "__main__":
     main()

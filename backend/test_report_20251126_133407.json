@@ -1,0 +1,70 @@
+{
+  "test_reliability_report": {
+    "generated_at": "2025-11-26T13:34:07.620116",
+    "execution_time_seconds": 5.2,
+    "overall_score": 84.0,
+    "risk_assessment": {
+      "level": "MEDIUM-LOW",
+      "description": "Good test coverage with minor issues"
+    },
+    "test_summary": {
+      "total": 7,
+      "passed": 6,
+      "failed": 1,
+      "pass_rate": 85.7
+    },
+    "coverage": {
+      "overall_percentage": 77.1,
+      "estimated": true
+    },
+    "test_results": [
+      {
+        "name": "Configuration Tests",
+        "success": true,
+        "details": "Config validation passed"
+      },
+      {
+        "name": "Model Tests",
+        "success": true,
+        "details": "Data model validation tests"
+      },
+      {
+        "name": "Authentication API",
+        "success": true,
+        "pass_rate": 0.83
+      },
+      {
+        "name": "Dashboard API",
+        "success": true,
+        "pass_rate": 1.0
+      },
+      {
+        "name": "Analysis API",
+        "success": true,
+        "pass_rate": 0.86
+      },
+      {
+        "name": "AI Analysis API",
+        "success": false,
+        "pass_rate": 0.67
+      },
+      {
+        "name": "Benchmark API",
+        "success": true,
+        "pass_rate": 1.0
+      }
+    ],
+    "recommendations": [
+      "Fix AI Analysis API issues - critical for system functionality",
+      "Improve authentication edge case handling",
+      "Add integration tests for cross-service functionality",
+      "Consider adding performance tests"
+    ],
+    "environment_status": {
+      "python_version": "3.11.3",
+      "backend_directory": "/Users/yche7179/Master/MIT-UNSW/25t3/COMP9900/restruction_project/capstone-project-25t3-9900-f12b-almond/backend",
+      "environment_variables_set": true,
+      "external_dependencies": "Mocked for testing"
+    }
+  }
+}

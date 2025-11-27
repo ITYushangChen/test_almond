@@ -4,15 +4,45 @@ import { useTheme } from "../context/ThemeContext";
 import config from "../config";
 import "./AIChat.css";
 
-function AIChat({ onAnalysisUpdate, onClose, isFloating = false }) {
-  const { isDarkMode } = useTheme();
-  const [messages, setMessages] = useState([
+// LocalStorage key for chat messages
+const CHAT_MESSAGES_STORAGE_KEY = 'ai_chat_messages';
+
+// Helper function to load messages from localStorage
+const loadMessagesFromStorage = () => {
+  try {
+    const stored = localStorage.getItem(CHAT_MESSAGES_STORAGE_KEY);
+    if (stored) {
+      const parsed = JSON.parse(stored);
+      // Validate that it's an array with at least one message
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        return parsed;
+      }
+    }
+  } catch (error) {
+    console.error('Error loading messages from localStorage:', error);
+  }
+  // Return default welcome message if nothing stored or error
+  return [
     {
       role: "assistant",
       content:
         '👋 Hi! I\'m your AI analysis assistant. Ask me to analyze data, generate insights, or create custom visualizations. For example:\n\n• "Show me the most negative topics this week"\n• "Compare sentiment trends for innovation and belonging"\n• "What are the top concerns this month?"\n• "Generate insights for the last 7 days"',
     },
-  ]);
+  ];
+};
+
+// Helper function to save messages to localStorage
+const saveMessagesToStorage = (messages) => {
+  try {
+    localStorage.setItem(CHAT_MESSAGES_STORAGE_KEY, JSON.stringify(messages));
+  } catch (error) {
+    console.error('Error saving messages to localStorage:', error);
+  }
+};
+
+function AIChat({ onAnalysisUpdate, onClose, isFloating = false }) {
+  const { isDarkMode } = useTheme();
+  const [messages, setMessages] = useState(() => loadMessagesFromStorage());
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const messagesEndRef = useRef(null);
@@ -81,6 +111,11 @@ function AIChat({ onAnalysisUpdate, onClose, isFloating = false }) {
 
   useEffect(() => {
     scrollToBottom();
+  }, [messages]);
+
+  // Save messages to localStorage whenever they change
+  useEffect(() => {
+    saveMessagesToStorage(messages);
   }, [messages]);
 
   // Drag functionality
@@ -336,12 +371,15 @@ function AIChat({ onAnalysisUpdate, onClose, isFloating = false }) {
   };
 
   const clearChat = () => {
-    setMessages([
+    const clearedMessages = [
       {
         role: "assistant",
         content: "👋 Chat cleared! How can I help you analyze your data today?",
       },
-    ]);
+    ];
+    setMessages(clearedMessages);
+    // Also clear from localStorage
+    saveMessagesToStorage(clearedMessages);
   };
 
   const chatClassName = `ai-chat ${isDarkMode ? "dark" : ""} ${

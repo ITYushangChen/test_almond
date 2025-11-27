@@ -48,16 +48,10 @@ def get_monthly_enps():
             month = item['date'][:7]
             monthly_data[month]['total'] += 1
             
-            # Check sentiment for this specific item
+            # Check sentiment for this specific item - only count explicit positive sentiment
             sentiment = item.get('sentiment')
             if sentiment == 'positive':
-                # Use actual sentiment if available
                 monthly_data[month]['positive'] += 1
-            else:
-                # Fallback to likes-based (likes > 5 as positive proxy)
-                likes = item.get('likes', 0)
-                if likes > 5:
-                    monthly_data[month]['positive'] += 1
     
     data = []
     for month in sorted(monthly_data.keys()):
@@ -101,15 +95,10 @@ def get_topic_hotness():
         theme_data[theme]['hotness'] += likes
         theme_data[theme]['total'] += 1
         
-        # Count positive comments - check sentiment for this specific item
+        # Count positive comments - only use sentiment field
         sentiment = item.get('sentiment')
         if sentiment == 'positive':
-            # Use actual sentiment if available
             theme_data[theme]['positive'] += 1
-        else:
-            # Fallback to likes-based (likes > 5 as positive proxy)
-            if likes > 5:
-                theme_data[theme]['positive'] += 1
     
     data = []
     for theme, stats in theme_data.items():
@@ -165,12 +154,7 @@ def get_sub_theme_hotness():
         # Count positive comments - check sentiment for this specific item
         sentiment = item.get('sentiment')
         if sentiment == 'positive':
-            # Use actual sentiment if available
             sub_theme_data[sub_theme]['positive'] += 1
-        else:
-            # Fallback to likes-based (likes > 5 as positive proxy)
-            if likes > 5:
-                sub_theme_data[sub_theme]['positive'] += 1
     
     result = []
     for sub_theme, stats in sub_theme_data.items():
